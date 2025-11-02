@@ -1,0 +1,42 @@
+{
+  "db_vehicle_count_time_ms": 2.15,
+  "db_sighting_count_time_ms": 0.19,
+  "db_alert_count_time_ms": 0.14,
+  "db_counts": {
+    "vehicles": 5,
+    "sightings": 722,
+    "alerts": 129
+  },
+  "plate_lookup_samples": [
+    {
+      "plate": "BA 12 P 1234",
+      "vehicle_ms": 0.54,
+      "sightings_ms": 0.26,
+      "alerts_ms": 0.22
+    },
+    {
+      "plate": "STL777",
+      "vehicle_ms": 0.2,
+      "sightings_ms": 0.22,
+      "alerts_ms": 0.24
+    },
+    {
+      "plate": "SUS555",
+      "vehicle_ms": 0.19,
+      "sightings_ms": 0.2,
+      "alerts_ms": 0.23
+    },
+    {
+      "plate": "प्रदेश ४-४०-९३ भ ३१२०",
+      "vehicle_ms": 0.19,
+      "sightings_ms": 0.22,
+      "alerts_ms": 0.23
+    },
+    {
+      "plate": "प्रदेश ७-५३-३५ ष ८९०६",
+      "vehicle_ms": 0.19,
+      "sightings_ms": 0.22,
+      "alerts_ms": 0.23
+    }
+  ]
+}

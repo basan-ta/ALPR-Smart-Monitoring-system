@@ -1,0 +1,116 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  /* Nepal-inspired palette */
+  --primary: #b91c1c; /* deep crimson (flag red) */
+  --accent: #1e3a8a;  /* navy blue */
+  --surface: #f7fafc; /* light surface */
+  --muted: #d1d5db;   /* gray-300 */
+  --success: #15803d; /* green-700 */
+  --warning: #d97706; /* amber-600 */
+  --danger: #b91c1c;  /* reuse primary */
+
+  /* Spacing scale */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+
+  /* Typography scale */
+  --font-size-xs: clamp(0.78rem, 0.75rem + 0.2vw, 0.85rem);
+  --font-size-sm: clamp(0.9rem, 0.85rem + 0.3vw, 1rem);
+  --font-size-base: clamp(1rem, 0.95rem + 0.4vw, 1.1rem);
+  --font-size-lg: clamp(1.2rem, 1.1rem + 0.6vw, 1.5rem);
+  --font-size-xl: clamp(1.5rem, 1.4rem + 0.8vw, 2rem);
+
+  /* Touch target */
+  --touch-target: 44px;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-dev: var(--font-noto-dev);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+    --primary: #dc2626; /* slightly brighter red for dark */
+    --accent: #93c5fd;  /* light blue accent */
+    --surface: #111827; /* gray-900 */
+    --muted: #374151;   /* gray-700 */
+    --success: #34d399; /* green-400 */
+    --warning: #f59e0b; /* amber-500 */
+    --danger: #ef4444;  /* red-500 */
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), var(--font-noto-dev), ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  font-size: var(--font-size-base);
+  line-height: 1.5;
+}
+
+/* Utility classes against theme variables */
+.bg-surface { background: var(--surface); }
+.border-muted { border-color: var(--muted); }
+.text-muted { color: var(--muted); }
+.text-accent { color: var(--accent); }
+.text-primary { color: var(--primary); }
+
+/* Accessible focus states */
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* Interactive elements: comfortable touch targets and smooth transitions */
+button, a, [role="button"] {
+  min-height: var(--touch-target);
+  transition: background-color 200ms ease, color 200ms ease, opacity 200ms ease, transform 200ms ease;
+}
+button:hover, a:hover, [role="button"]:hover { opacity: 0.92; }
+button:active, a:active, [role="button"]:active { transform: translateY(0.5px); }
+
+/* Screen-reader only with focus escape */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Animations (respecting reduced motion) */
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slide-up {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in { animation: fade-in 400ms ease-out both; }
+.animate-slide-up { animation: slide-up 420ms ease-out both; }
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-fade-in, .animate-slide-up { animation: none !important; }
+}
+
+/* Responsive table: optional helper classes */
+.table-wrap { overflow: auto; max-height: 260px; }
+.card-list { display: grid; gap: var(--space-3); }
+.card { border: 1px solid var(--muted); border-radius: 12px; background: var(--surface); padding: var(--space-3); }

@@ -1,0 +1,27 @@
+{
+  "summary": {
+    "vehicles": 2,
+    "sightings": 263,
+    "alerts": 42
+  },
+  "vehicles": {
+    "invalid_plates_sample": [],
+    "status_counts": {
+      "normal": 0,
+      "suspicious": 1,
+      "stolen": 1,
+      "other": 0
+    }
+  },
+  "sightings": {
+    "invalid_coords_sample": []
+  },
+  "alerts": {
+    "status_counts": {
+      "normal": 0,
+      "suspicious": 24,
+      "stolen": 18,
+      "other": 0
+    }
+  }
+}

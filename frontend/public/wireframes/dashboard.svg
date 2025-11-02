@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1024" viewBox="0 0 1440 1024">
+  <style>
+    .label { font: 14px sans-serif; fill: #374151; }
+    .box { fill: #f3f4f6; stroke: #9ca3af; stroke-width: 2; rx: 12; }
+    .header { fill: #fef2f2; stroke: #b91c1c; rx: 12; }
+  </style>
+  <!-- Header / Nav -->
+  <rect class="header" x="40" y="40" width="1360" height="80" />
+  <text class="label" x="60" y="90">Top Navigation — Brand, Dashboard, Dataset, Admin</text>
+
+  <!-- Content grid -->
+  <rect class="box" x="40" y="140" width="660" height="420" />
+  <text class="label" x="60" y="170">Live Map</text>
+
+  <rect class="box" x="740" y="140" width="660" height="420" />
+  <text class="label" x="760" y="170">Recent Alerts</text>
+
+  <rect class="box" x="40" y="580" width="660" height="320" />
+  <text class="label" x="60" y="610">Watchlist / Vehicles</text>
+
+  <rect class="box" x="740" y="580" width="660" height="320" />
+  <text class="label" x="760" y="610">Statistics (animated count-up)</text>
+
+  <!-- Footer -->
+  <rect class="box" x="40" y="920" width="1360" height="40" />
+  <text class="label" x="60" y="946">Footer — © Nepal Armed Police Force</text>
+</svg>

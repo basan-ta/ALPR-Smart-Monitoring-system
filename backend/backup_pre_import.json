@@ -1,0 +1,5494 @@
+{
+  "vehicles": [
+    {
+      "plate_number": "BA 12 P 1234",
+      "status": "normal",
+      "owner": "Test Owner",
+      "last_seen": null,
+      "notes": ""
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "owner": "Demo Owner",
+      "last_seen": "2025-11-01T12:23:59.457214+00:00",
+      "notes": "Auto-added demo watchlist entry"
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "owner": "Demo Owner",
+      "last_seen": "2025-11-01T12:23:39.422426+00:00",
+      "notes": "Auto-added demo watchlist entry"
+    }
+  ],
+  "sightings": [
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.73444890223001,
+      "longitude": 85.3482856576845,
+      "speed_kmh": 79.99983691498261,
+      "heading_deg": 81.24061849241757,
+      "timestamp": "2025-11-01T10:50:46.971298+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.732942846329316,
+      "longitude": 85.30794625057416,
+      "speed_kmh": 35.97962448668917,
+      "heading_deg": 309.0374629113543,
+      "timestamp": "2025-11-01T10:50:48.478480+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "van",
+      "color": "black",
+      "latitude": 27.71832899570843,
+      "longitude": 85.32727581429654,
+      "speed_kmh": 50.02351491017831,
+      "heading_deg": 98.51358049644116,
+      "timestamp": "2025-11-01T10:50:49.984245+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.687836185770998,
+      "longitude": 85.34446257074954,
+      "speed_kmh": 39.36385529722135,
+      "heading_deg": 222.52769920086874,
+      "timestamp": "2025-11-01T10:50:51.494112+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.693491757850484,
+      "longitude": 85.32493054669641,
+      "speed_kmh": 52.01214428506379,
+      "heading_deg": 242.52797367618425,
+      "timestamp": "2025-11-01T10:50:53.006010+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.71038968248482,
+      "longitude": 85.3005881671727,
+      "speed_kmh": 67.55313459095903,
+      "heading_deg": 333.2264977209779,
+      "timestamp": "2025-11-01T10:50:54.515571+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "van",
+      "color": "silver",
+      "latitude": 27.7282805154569,
+      "longitude": 85.34090140292136,
+      "speed_kmh": 32.28134368426896,
+      "heading_deg": 127.83514515280575,
+      "timestamp": "2025-11-01T10:50:56.029162+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.70300042230488,
+      "longitude": 85.32944872123599,
+      "speed_kmh": 69.63367371589081,
+      "heading_deg": 100.5225993295829,
+      "timestamp": "2025-11-01T10:50:57.535652+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "suv",
+      "color": "black",
+      "latitude": 27.744623723478274,
+      "longitude": 85.29865783894037,
+      "speed_kmh": 73.76820778963561,
+      "heading_deg": 1.6618558414664664,
+      "timestamp": "2025-11-01T10:50:59.043204+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "van",
+      "color": "red",
+      "latitude": 27.72123171294635,
+      "longitude": 85.31530043950664,
+      "speed_kmh": 68.79146965449215,
+      "heading_deg": 126.28241479379084,
+      "timestamp": "2025-11-01T10:51:00.550388+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.704174570860918,
+      "longitude": 85.30683963150656,
+      "speed_kmh": 20.59427021228981,
+      "heading_deg": 50.570671688089426,
+      "timestamp": "2025-11-01T10:51:02.065675+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.70021100891955,
+      "longitude": 85.34172640129448,
+      "speed_kmh": 57.87149401858596,
+      "heading_deg": 189.70998938864648,
+      "timestamp": "2025-11-01T10:51:03.574020+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "van",
+      "color": "white",
+      "latitude": 27.70966938749383,
+      "longitude": 85.34852757925485,
+      "speed_kmh": 52.72861011713383,
+      "heading_deg": 43.06653128273217,
+      "timestamp": "2025-11-01T10:51:05.081013+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "van",
+      "color": "white",
+      "latitude": 27.710149391827787,
+      "longitude": 85.32565152836187,
+      "speed_kmh": 39.063982885640954,
+      "heading_deg": 241.7167301473063,
+      "timestamp": "2025-11-01T10:51:06.588008+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.713529597442314,
+      "longitude": 85.31162993261455,
+      "speed_kmh": 64.05097765297293,
+      "heading_deg": 346.8098130962106,
+      "timestamp": "2025-11-01T10:51:08.095080+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.733564702466563,
+      "longitude": 85.33866951588759,
+      "speed_kmh": 31.31385743570844,
+      "heading_deg": 77.92827625025001,
+      "timestamp": "2025-11-01T10:51:09.603664+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.729445280967184,
+      "longitude": 85.3162333197932,
+      "speed_kmh": 25.682504756086576,
+      "heading_deg": 80.397264692044,
+      "timestamp": "2025-11-01T10:51:11.111315+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "van",
+      "color": "red",
+      "latitude": 27.701212575660495,
+      "longitude": 85.35019648398087,
+      "speed_kmh": 12.007053675892982,
+      "heading_deg": 333.7736900954468,
+      "timestamp": "2025-11-01T10:51:12.616964+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "van",
+      "color": "white",
+      "latitude": 27.73296088337508,
+      "longitude": 85.31271732706223,
+      "speed_kmh": 41.36624929457592,
+      "heading_deg": 175.00216015588833,
+      "timestamp": "2025-11-01T10:51:14.124429+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.724282646437434,
+      "longitude": 85.32476541147068,
+      "speed_kmh": 29.441411799914896,
+      "heading_deg": 152.96310435042412,
+      "timestamp": "2025-11-01T10:51:15.627521+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "van",
+      "color": "black",
+      "latitude": 27.699973382145917,
+      "longitude": 85.33513971765163,
+      "speed_kmh": 71.03467545264795,
+      "heading_deg": 168.91549106926874,
+      "timestamp": "2025-11-01T10:51:17.135160+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.745804982970327,
+      "longitude": 85.29649533119645,
+      "speed_kmh": 20.929353643825998,
+      "heading_deg": 162.76047133037414,
+      "timestamp": "2025-11-01T10:51:18.643035+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.704585115925013,
+      "longitude": 85.29708954881222,
+      "speed_kmh": 31.716384642569018,
+      "heading_deg": 293.4510413700372,
+      "timestamp": "2025-11-01T10:51:20.148192+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "van",
+      "color": "white",
+      "latitude": 27.707212729933683,
+      "longitude": 85.3343586855958,
+      "speed_kmh": 77.38055694832447,
+      "heading_deg": 181.46222619039804,
+      "timestamp": "2025-11-01T10:51:21.656732+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.735776423789453,
+      "longitude": 85.3412320630533,
+      "speed_kmh": 12.702429042357267,
+      "heading_deg": 223.79355362866397,
+      "timestamp": "2025-11-01T10:51:23.164105+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.694307085508928,
+      "longitude": 85.34470727694708,
+      "speed_kmh": 12.647404342117447,
+      "heading_deg": 0.06424250969018885,
+      "timestamp": "2025-11-01T10:51:24.666991+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.71198491082698,
+      "longitude": 85.31150235934587,
+      "speed_kmh": 69.99537294244197,
+      "heading_deg": 249.37903336863965,
+      "timestamp": "2025-11-01T10:51:26.175194+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.711935178935633,
+      "longitude": 85.31732313688231,
+      "speed_kmh": 24.511155969210083,
+      "heading_deg": 44.75872273159502,
+      "timestamp": "2025-11-01T10:51:27.684035+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.727733139633738,
+      "longitude": 85.30770186450412,
+      "speed_kmh": 47.12828951674432,
+      "heading_deg": 192.32890867585806,
+      "timestamp": "2025-11-01T10:51:29.188089+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.710411048893317,
+      "longitude": 85.32838031323199,
+      "speed_kmh": 45.78655581907553,
+      "heading_deg": 323.05344744774544,
+      "timestamp": "2025-11-01T10:51:30.695537+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "suv",
+      "color": "black",
+      "latitude": 27.691034866079978,
+      "longitude": 85.29477164488704,
+      "speed_kmh": 35.40556349026771,
+      "heading_deg": 10.594358054301708,
+      "timestamp": "2025-11-01T10:51:32.205312+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.71943557592073,
+      "longitude": 85.3232353855618,
+      "speed_kmh": 31.356094011186315,
+      "heading_deg": 302.32517016669345,
+      "timestamp": "2025-11-01T10:51:33.715373+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "sedan",
+      "color": "white",
+      "latitude": 27.68809398440484,
+      "longitude": 85.33750017647829,
+      "speed_kmh": 44.94457689276075,
+      "heading_deg": 113.44276416398279,
+      "timestamp": "2025-11-01T10:51:35.219891+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.744187217710454,
+      "longitude": 85.32170902741353,
+      "speed_kmh": 16.5065444222967,
+      "heading_deg": 25.183952238734296,
+      "timestamp": "2025-11-01T10:51:36.726845+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "van",
+      "color": "white",
+      "latitude": 27.694914631839485,
+      "longitude": 85.35247871441787,
+      "speed_kmh": 76.9926752432836,
+      "heading_deg": 103.1484583800478,
+      "timestamp": "2025-11-01T10:51:38.229771+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.717962103789667,
+      "longitude": 85.31352109728023,
+      "speed_kmh": 53.70526127052603,
+      "heading_deg": 17.17596401732849,
+      "timestamp": "2025-11-01T10:51:39.738117+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "suv",
+      "color": "red",
+      "latitude": 27.70337219870797,
+      "longitude": 85.3180258958504,
+      "speed_kmh": 51.245126607881524,
+      "heading_deg": 216.88782410515896,
+      "timestamp": "2025-11-01T10:51:41.243628+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "suv",
+      "color": "white",
+      "latitude": 27.720645362690515,
+      "longitude": 85.3075245241213,
+      "speed_kmh": 72.04888316603211,
+      "heading_deg": 111.97518921119683,
+      "timestamp": "2025-11-01T10:51:42.750977+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "suv",
+      "color": "black",
+      "latitude": 27.69559380386269,
+      "longitude": 85.30235881902291,
+      "speed_kmh": 10.848475018549117,
+      "heading_deg": 265.7687872293787,
+      "timestamp": "2025-11-01T10:51:44.265479+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.689360184549148,
+      "longitude": 85.29914444207849,
+      "speed_kmh": 69.56143934481963,
+      "heading_deg": 160.38576880390505,
+      "timestamp": "2025-11-01T10:51:45.769503+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "suv",
+      "color": "black",
+      "latitude": 27.712162181620336,
+      "longitude": 85.29858302070835,
+      "speed_kmh": 61.2305257266862,
+      "heading_deg": 109.18129384382355,
+      "timestamp": "2025-11-01T10:51:47.277224+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.746462250828884,
+      "longitude": 85.3254195538535,
+      "speed_kmh": 63.980847730744344,
+      "heading_deg": 125.05442852156274,
+      "timestamp": "2025-11-01T10:51:48.785601+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.722228228703564,
+      "longitude": 85.30020884492929,
+      "speed_kmh": 51.10830393308232,
+      "heading_deg": 262.6793854260878,
+      "timestamp": "2025-11-01T10:51:50.290391+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.713172887928,
+      "longitude": 85.33213086141673,
+      "speed_kmh": 13.614918402133357,
+      "heading_deg": 31.93738287378771,
+      "timestamp": "2025-11-01T10:51:51.801488+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.71015580152591,
+      "longitude": 85.32887230011961,
+      "speed_kmh": 51.3579978461739,
+      "heading_deg": 113.67030348439741,
+      "timestamp": "2025-11-01T10:51:53.303974+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.697876199124988,
+      "longitude": 85.34224921608745,
+      "speed_kmh": 28.210127033415063,
+      "heading_deg": 175.01325509072012,
+      "timestamp": "2025-11-01T10:51:54.812206+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.711299850812356,
+      "longitude": 85.32212809628864,
+      "speed_kmh": 40.62227943216662,
+      "heading_deg": 258.5544680611404,
+      "timestamp": "2025-11-01T10:51:56.322183+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.706998879966726,
+      "longitude": 85.33097574205196,
+      "speed_kmh": 75.94354999392574,
+      "heading_deg": 206.55895845754674,
+      "timestamp": "2025-11-01T10:51:57.832702+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.745546006090834,
+      "longitude": 85.31149700500606,
+      "speed_kmh": 53.809045330517975,
+      "heading_deg": 65.01932715187053,
+      "timestamp": "2025-11-01T10:51:59.341150+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.716089800999548,
+      "longitude": 85.29518962123245,
+      "speed_kmh": 15.28033393159692,
+      "heading_deg": 135.69548746871737,
+      "timestamp": "2025-11-01T10:52:00.849891+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "suv",
+      "color": "white",
+      "latitude": 27.72915219472777,
+      "longitude": 85.34718036034522,
+      "speed_kmh": 69.54001413415598,
+      "heading_deg": 247.05771860818453,
+      "timestamp": "2025-11-01T10:52:02.353484+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.72591049494293,
+      "longitude": 85.3383296944102,
+      "speed_kmh": 15.167633659327912,
+      "heading_deg": 125.33729016226154,
+      "timestamp": "2025-11-01T10:52:03.861076+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.713430674137296,
+      "longitude": 85.32614373326574,
+      "speed_kmh": 78.44655466551323,
+      "heading_deg": 35.78601209675091,
+      "timestamp": "2025-11-01T10:52:05.368547+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.726032241588367,
+      "longitude": 85.3057714284801,
+      "speed_kmh": 21.990547488862763,
+      "heading_deg": 351.31807735977884,
+      "timestamp": "2025-11-01T10:52:06.880085+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.689648010099933,
+      "longitude": 85.30292782451397,
+      "speed_kmh": 46.49523051723579,
+      "heading_deg": 228.91105362175009,
+      "timestamp": "2025-11-01T10:52:08.389243+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.718144739684334,
+      "longitude": 85.33350972378629,
+      "speed_kmh": 15.940210406050795,
+      "heading_deg": 340.0604329475326,
+      "timestamp": "2025-11-01T10:52:09.899862+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.713920098385902,
+      "longitude": 85.3416759538884,
+      "speed_kmh": 44.2638532308488,
+      "heading_deg": 262.846957064569,
+      "timestamp": "2025-11-01T10:52:11.403095+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.717487007188687,
+      "longitude": 85.33736360829575,
+      "speed_kmh": 72.80658580692614,
+      "heading_deg": 58.661861059347274,
+      "timestamp": "2025-11-01T10:52:12.910900+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.734767679681998,
+      "longitude": 85.32878980014455,
+      "speed_kmh": 77.64828395967615,
+      "heading_deg": 266.3001013822445,
+      "timestamp": "2025-11-01T10:52:14.416997+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.707336253650023,
+      "longitude": 85.30597018721063,
+      "speed_kmh": 62.997584708466825,
+      "heading_deg": 325.89603531482504,
+      "timestamp": "2025-11-01T10:52:15.926837+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.71231205948161,
+      "longitude": 85.34683989554144,
+      "speed_kmh": 79.06037016086475,
+      "heading_deg": 78.21039303636503,
+      "timestamp": "2025-11-01T10:52:17.432272+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.717793685828955,
+      "longitude": 85.33540497031743,
+      "speed_kmh": 32.45196913643731,
+      "heading_deg": 201.0811580674275,
+      "timestamp": "2025-11-01T10:52:18.940796+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.70293348424046,
+      "longitude": 85.31953137250503,
+      "speed_kmh": 65.90563494760636,
+      "heading_deg": 326.6225983233873,
+      "timestamp": "2025-11-01T10:52:20.448343+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.6882387035029,
+      "longitude": 85.3273748857144,
+      "speed_kmh": 49.10377946391734,
+      "heading_deg": 351.8885150327079,
+      "timestamp": "2025-11-01T10:52:21.957702+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "van",
+      "color": "red",
+      "latitude": 27.73240876507228,
+      "longitude": 85.34804107020359,
+      "speed_kmh": 75.06686165211835,
+      "heading_deg": 64.64338911575948,
+      "timestamp": "2025-11-01T10:52:23.465530+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "van",
+      "color": "black",
+      "latitude": 27.71411253232998,
+      "longitude": 85.30431187998634,
+      "speed_kmh": 75.44392931434507,
+      "heading_deg": 94.00089201472522,
+      "timestamp": "2025-11-01T10:52:24.976321+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.725230309307484,
+      "longitude": 85.34045536495162,
+      "speed_kmh": 40.455587680306884,
+      "heading_deg": 273.77696225187884,
+      "timestamp": "2025-11-01T10:52:26.484736+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.739892064695777,
+      "longitude": 85.3280172605935,
+      "speed_kmh": 55.534253635483324,
+      "heading_deg": 331.8446274110608,
+      "timestamp": "2025-11-01T10:52:27.993592+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.715615853549945,
+      "longitude": 85.2945152198823,
+      "speed_kmh": 51.68543860698917,
+      "heading_deg": 346.1265245442457,
+      "timestamp": "2025-11-01T10:52:29.500389+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "sedan",
+      "color": "white",
+      "latitude": 27.717472580232275,
+      "longitude": 85.30884491257312,
+      "speed_kmh": 60.12125467882942,
+      "heading_deg": 294.30182036297754,
+      "timestamp": "2025-11-01T10:52:31.008254+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "van",
+      "color": "red",
+      "latitude": 27.694799592196762,
+      "longitude": 85.3307360166178,
+      "speed_kmh": 43.60629572826348,
+      "heading_deg": 189.85978053139095,
+      "timestamp": "2025-11-01T10:52:32.517677+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.704027777973263,
+      "longitude": 85.32950855714085,
+      "speed_kmh": 13.589495892845278,
+      "heading_deg": 158.53223769426265,
+      "timestamp": "2025-11-01T10:52:34.027893+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "suv",
+      "color": "red",
+      "latitude": 27.719482139747342,
+      "longitude": 85.32100788084502,
+      "speed_kmh": 46.59120472022035,
+      "heading_deg": 34.23576262546852,
+      "timestamp": "2025-11-01T10:52:35.531892+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.704875987116022,
+      "longitude": 85.30350472221531,
+      "speed_kmh": 44.1511847742423,
+      "heading_deg": 54.65106201358098,
+      "timestamp": "2025-11-01T10:52:37.039344+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.702154083269072,
+      "longitude": 85.32121229954856,
+      "speed_kmh": 12.49144607656142,
+      "heading_deg": 136.6163422736039,
+      "timestamp": "2025-11-01T10:52:38.552809+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "suv",
+      "color": "red",
+      "latitude": 27.728164186682992,
+      "longitude": 85.30522480797133,
+      "speed_kmh": 65.77003034553059,
+      "heading_deg": 269.0588654307032,
+      "timestamp": "2025-11-01T10:52:40.056091+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.70021604240283,
+      "longitude": 85.30717655921583,
+      "speed_kmh": 76.51661977105697,
+      "heading_deg": 217.86195999382284,
+      "timestamp": "2025-11-01T10:52:41.562966+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.69691036825401,
+      "longitude": 85.30913966045424,
+      "speed_kmh": 64.7653872861851,
+      "heading_deg": 222.30500619604513,
+      "timestamp": "2025-11-01T10:52:43.073164+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "van",
+      "color": "red",
+      "latitude": 27.744238689043357,
+      "longitude": 85.33011926233918,
+      "speed_kmh": 71.0260468916018,
+      "heading_deg": 290.9930226733209,
+      "timestamp": "2025-11-01T10:52:44.580529+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.718875968553384,
+      "longitude": 85.340510867196,
+      "speed_kmh": 47.677271314067525,
+      "heading_deg": 85.5104044308612,
+      "timestamp": "2025-11-01T10:52:46.087921+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "van",
+      "color": "black",
+      "latitude": 27.710937812116402,
+      "longitude": 85.32625603629654,
+      "speed_kmh": 75.29323783336653,
+      "heading_deg": 235.6717860378788,
+      "timestamp": "2025-11-01T10:52:47.593428+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "suv",
+      "color": "black",
+      "latitude": 27.694098869228114,
+      "longitude": 85.33782519251815,
+      "speed_kmh": 31.77446818031489,
+      "heading_deg": 163.55827786993453,
+      "timestamp": "2025-11-01T10:52:49.101211+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "van",
+      "color": "silver",
+      "latitude": 27.72238174544552,
+      "longitude": 85.29533430611035,
+      "speed_kmh": 54.264786789741954,
+      "heading_deg": 248.2568612558671,
+      "timestamp": "2025-11-01T10:52:50.612970+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.703830212303355,
+      "longitude": 85.3415663564495,
+      "speed_kmh": 38.19917034687599,
+      "heading_deg": 40.89977808656197,
+      "timestamp": "2025-11-01T10:52:52.122176+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.70443555035639,
+      "longitude": 85.33210086514467,
+      "speed_kmh": 76.7129493617974,
+      "heading_deg": 170.93890692690036,
+      "timestamp": "2025-11-01T10:52:53.630825+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.694914747250245,
+      "longitude": 85.32904476751867,
+      "speed_kmh": 35.32693869557028,
+      "heading_deg": 34.95348634803989,
+      "timestamp": "2025-11-01T10:52:55.138411+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.738504234418233,
+      "longitude": 85.32765164920991,
+      "speed_kmh": 20.441003394568426,
+      "heading_deg": 258.726861024168,
+      "timestamp": "2025-11-01T10:52:56.642467+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "van",
+      "color": "white",
+      "latitude": 27.730549507362564,
+      "longitude": 85.30950207093741,
+      "speed_kmh": 10.91479008164164,
+      "heading_deg": 2.159016558255482,
+      "timestamp": "2025-11-01T10:52:58.150901+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.689050148959772,
+      "longitude": 85.35039894104688,
+      "speed_kmh": 50.80872466727582,
+      "heading_deg": 84.97841095447009,
+      "timestamp": "2025-11-01T10:52:59.657535+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.70593557286055,
+      "longitude": 85.35382981335287,
+      "speed_kmh": 16.561209178804486,
+      "heading_deg": 79.61529956328445,
+      "timestamp": "2025-11-01T10:53:01.165835+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.703037493902748,
+      "longitude": 85.3113418986588,
+      "speed_kmh": 64.90121407093504,
+      "heading_deg": 342.84902467464826,
+      "timestamp": "2025-11-01T10:53:02.675963+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.731448632793622,
+      "longitude": 85.30003484551334,
+      "speed_kmh": 78.01518801371101,
+      "heading_deg": 257.63879955890997,
+      "timestamp": "2025-11-01T10:53:04.182529+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.711043603648122,
+      "longitude": 85.29447945039952,
+      "speed_kmh": 41.91707880256311,
+      "heading_deg": 142.07202495522213,
+      "timestamp": "2025-11-01T10:53:05.695181+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.70324745506488,
+      "longitude": 85.32929720349715,
+      "speed_kmh": 17.66127972344637,
+      "heading_deg": 319.0741126803247,
+      "timestamp": "2025-11-01T10:53:07.200048+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.70839110546233,
+      "longitude": 85.33855429400344,
+      "speed_kmh": 11.255934142783182,
+      "heading_deg": 243.3972795838586,
+      "timestamp": "2025-11-01T10:53:08.702666+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.720565603248925,
+      "longitude": 85.33619488849156,
+      "speed_kmh": 61.51137677886716,
+      "heading_deg": 341.14953198196315,
+      "timestamp": "2025-11-01T10:53:10.209520+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.719819779665613,
+      "longitude": 85.33479452777783,
+      "speed_kmh": 20.148329264696912,
+      "heading_deg": 349.92949180008253,
+      "timestamp": "2025-11-01T10:53:11.716411+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.739540431847885,
+      "longitude": 85.33978487591921,
+      "speed_kmh": 49.65722389331061,
+      "heading_deg": 218.3988866386955,
+      "timestamp": "2025-11-01T10:53:13.225610+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.703369964449056,
+      "longitude": 85.33659583511916,
+      "speed_kmh": 24.42316804857529,
+      "heading_deg": 307.5569337599555,
+      "timestamp": "2025-11-01T10:53:14.730799+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "van",
+      "color": "black",
+      "latitude": 27.740874968433804,
+      "longitude": 85.3095700495816,
+      "speed_kmh": 79.32162198010477,
+      "heading_deg": 346.491508170523,
+      "timestamp": "2025-11-01T10:53:16.239316+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "sedan",
+      "color": "white",
+      "latitude": 27.738898900821756,
+      "longitude": 85.3381419315916,
+      "speed_kmh": 13.645692240122292,
+      "heading_deg": 84.32733947192746,
+      "timestamp": "2025-11-01T10:53:17.741320+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.694361278082077,
+      "longitude": 85.30537208648747,
+      "speed_kmh": 39.60918541494542,
+      "heading_deg": 230.97891956227863,
+      "timestamp": "2025-11-01T10:53:19.246028+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "van",
+      "color": "red",
+      "latitude": 27.70690581623896,
+      "longitude": 85.32216613436881,
+      "speed_kmh": 62.46190132176473,
+      "heading_deg": 87.76368363749035,
+      "timestamp": "2025-11-01T10:53:20.751344+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.742341681377543,
+      "longitude": 85.3103695755853,
+      "speed_kmh": 41.27709928791821,
+      "heading_deg": 309.28854047089783,
+      "timestamp": "2025-11-01T10:53:22.258969+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.70611756249945,
+      "longitude": 85.31133845852075,
+      "speed_kmh": 48.443633864915085,
+      "heading_deg": 49.87453092856683,
+      "timestamp": "2025-11-01T10:53:23.767929+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "van",
+      "color": "black",
+      "latitude": 27.709651023704744,
+      "longitude": 85.31389861298535,
+      "speed_kmh": 54.319945002000466,
+      "heading_deg": 5.4060147692844,
+      "timestamp": "2025-11-01T10:53:25.282443+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.742178381426918,
+      "longitude": 85.30000619694223,
+      "speed_kmh": 71.95495605221925,
+      "heading_deg": 118.73630143090476,
+      "timestamp": "2025-11-01T10:53:26.790150+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.734418760697622,
+      "longitude": 85.33029249847436,
+      "speed_kmh": 47.930177294731614,
+      "heading_deg": 186.83522267313683,
+      "timestamp": "2025-11-01T10:53:28.298290+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "suv",
+      "color": "black",
+      "latitude": 27.736999891287667,
+      "longitude": 85.34984024856615,
+      "speed_kmh": 48.048851692072084,
+      "heading_deg": 9.19012508965173,
+      "timestamp": "2025-11-01T10:53:29.803328+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.703174582906804,
+      "longitude": 85.3157337344987,
+      "speed_kmh": 18.842879757504825,
+      "heading_deg": 131.05464868626598,
+      "timestamp": "2025-11-01T10:53:31.313349+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.689483186598412,
+      "longitude": 85.34457631330305,
+      "speed_kmh": 51.274554534760256,
+      "heading_deg": 233.82989531764628,
+      "timestamp": "2025-11-01T10:53:32.826836+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.742689136955196,
+      "longitude": 85.30871513017226,
+      "speed_kmh": 15.87222173019452,
+      "heading_deg": 54.54231039468839,
+      "timestamp": "2025-11-01T10:53:34.333698+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "suv",
+      "color": "white",
+      "latitude": 27.731110993290894,
+      "longitude": 85.35243126420336,
+      "speed_kmh": 58.75425244476591,
+      "heading_deg": 225.87283432249316,
+      "timestamp": "2025-11-01T10:53:35.849562+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.713213244927477,
+      "longitude": 85.32445653362203,
+      "speed_kmh": 22.117261294287818,
+      "heading_deg": 80.55939845259286,
+      "timestamp": "2025-11-01T10:53:37.358813+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "van",
+      "color": "black",
+      "latitude": 27.70944442764486,
+      "longitude": 85.31780862157233,
+      "speed_kmh": 54.42641140830231,
+      "heading_deg": 31.58568249302578,
+      "timestamp": "2025-11-01T10:53:38.867335+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.710136751528967,
+      "longitude": 85.32654560023784,
+      "speed_kmh": 18.843365418245817,
+      "heading_deg": 233.45242675687896,
+      "timestamp": "2025-11-01T10:53:40.374568+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.729018748578977,
+      "longitude": 85.3077669460032,
+      "speed_kmh": 52.363469659751715,
+      "heading_deg": 162.88628784935207,
+      "timestamp": "2025-11-01T10:53:41.884336+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "sedan",
+      "color": "white",
+      "latitude": 27.695633361821677,
+      "longitude": 85.29581030564617,
+      "speed_kmh": 72.09606759420173,
+      "heading_deg": 6.358302360352361,
+      "timestamp": "2025-11-01T10:53:43.392883+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.738427475351312,
+      "longitude": 85.33810147813261,
+      "speed_kmh": 13.06583178869558,
+      "heading_deg": 45.97698230767928,
+      "timestamp": "2025-11-01T10:53:44.901454+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.695320039054746,
+      "longitude": 85.34561039792503,
+      "speed_kmh": 47.474741941599945,
+      "heading_deg": 149.38992602212588,
+      "timestamp": "2025-11-01T10:53:46.409907+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.711014955157644,
+      "longitude": 85.35268161564396,
+      "speed_kmh": 49.177348991979976,
+      "heading_deg": 151.84108170741237,
+      "timestamp": "2025-11-01T10:53:47.924828+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.73096524276673,
+      "longitude": 85.35229643345919,
+      "speed_kmh": 24.41996929189636,
+      "heading_deg": 307.816656636833,
+      "timestamp": "2025-11-01T10:53:49.433451+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.7122116306308,
+      "longitude": 85.34758914633767,
+      "speed_kmh": 72.08959843592777,
+      "heading_deg": 89.69783513883118,
+      "timestamp": "2025-11-01T10:53:50.944474+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "suv",
+      "color": "white",
+      "latitude": 27.7345116775573,
+      "longitude": 85.32706389721969,
+      "speed_kmh": 68.34157606855436,
+      "heading_deg": 351.81308087787926,
+      "timestamp": "2025-11-01T10:53:52.458348+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.743237521941637,
+      "longitude": 85.30914955135665,
+      "speed_kmh": 38.94881294951539,
+      "heading_deg": 347.432277326165,
+      "timestamp": "2025-11-01T10:53:53.967458+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.732666698057088,
+      "longitude": 85.33181081897507,
+      "speed_kmh": 40.55727645079935,
+      "heading_deg": 131.92634751057517,
+      "timestamp": "2025-11-01T10:53:55.477685+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.705505162729544,
+      "longitude": 85.34995219642039,
+      "speed_kmh": 57.1604312470153,
+      "heading_deg": 186.2082088001518,
+      "timestamp": "2025-11-01T10:53:56.984620+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.704014273217215,
+      "longitude": 85.33163816859869,
+      "speed_kmh": 18.71816052503878,
+      "heading_deg": 320.1715984089419,
+      "timestamp": "2025-11-01T10:53:58.494494+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "suv",
+      "color": "white",
+      "latitude": 27.728842263306277,
+      "longitude": 85.33464491872255,
+      "speed_kmh": 38.01097103150476,
+      "heading_deg": 23.0658574545061,
+      "timestamp": "2025-11-01T10:54:00.003758+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "suv",
+      "color": "red",
+      "latitude": 27.721169221358714,
+      "longitude": 85.29547552203955,
+      "speed_kmh": 13.517228014541832,
+      "heading_deg": 206.1533566484719,
+      "timestamp": "2025-11-01T10:54:01.512261+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.720877081638914,
+      "longitude": 85.33057948864514,
+      "speed_kmh": 25.997394871081653,
+      "heading_deg": 116.09402241130002,
+      "timestamp": "2025-11-01T10:54:03.019667+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.726005834036552,
+      "longitude": 85.31243542302218,
+      "speed_kmh": 24.115645425580574,
+      "heading_deg": 71.69326298609303,
+      "timestamp": "2025-11-01T10:54:04.527113+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "van",
+      "color": "silver",
+      "latitude": 27.7443301964464,
+      "longitude": 85.31514212075164,
+      "speed_kmh": 38.269751175384904,
+      "heading_deg": 232.46523472217405,
+      "timestamp": "2025-11-01T10:54:06.035178+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.689900167995305,
+      "longitude": 85.34112027143642,
+      "speed_kmh": 18.356308086281544,
+      "heading_deg": 5.444630112990438,
+      "timestamp": "2025-11-01T10:54:07.543808+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "van",
+      "color": "black",
+      "latitude": 27.720927136380396,
+      "longitude": 85.33563873830744,
+      "speed_kmh": 76.81247668656715,
+      "heading_deg": 333.55203137087966,
+      "timestamp": "2025-11-01T10:54:09.057832+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.73266651159649,
+      "longitude": 85.35255216931142,
+      "speed_kmh": 64.42375835063672,
+      "heading_deg": 119.01504881816435,
+      "timestamp": "2025-11-01T10:54:10.566934+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.70284282242693,
+      "longitude": 85.32160247614615,
+      "speed_kmh": 36.48948637776992,
+      "heading_deg": 173.33048167827113,
+      "timestamp": "2025-11-01T10:54:12.076679+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "van",
+      "color": "white",
+      "latitude": 27.747097582612554,
+      "longitude": 85.35125268009604,
+      "speed_kmh": 10.266584487834447,
+      "heading_deg": 356.88041195825144,
+      "timestamp": "2025-11-01T10:54:13.585006+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "van",
+      "color": "red",
+      "latitude": 27.737535269422512,
+      "longitude": 85.31867290074987,
+      "speed_kmh": 29.01773081634533,
+      "heading_deg": 312.6689697015246,
+      "timestamp": "2025-11-01T10:54:15.092409+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.715764861506553,
+      "longitude": 85.32004791289984,
+      "speed_kmh": 52.47763231541501,
+      "heading_deg": 305.17557731830476,
+      "timestamp": "2025-11-01T10:54:16.597186+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.742487235898114,
+      "longitude": 85.33106156611642,
+      "speed_kmh": 12.376384980528968,
+      "heading_deg": 331.7995908337333,
+      "timestamp": "2025-11-01T10:54:18.105062+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.69030766298266,
+      "longitude": 85.30301864596979,
+      "speed_kmh": 38.86109899340603,
+      "heading_deg": 99.49240181795982,
+      "timestamp": "2025-11-01T10:54:19.610802+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.733087880107103,
+      "longitude": 85.2966809623525,
+      "speed_kmh": 74.17122157834577,
+      "heading_deg": 104.52475127602989,
+      "timestamp": "2025-11-01T10:54:21.121186+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.73650851633146,
+      "longitude": 85.3330315836404,
+      "speed_kmh": 40.513150169565805,
+      "heading_deg": 53.69620389332072,
+      "timestamp": "2025-11-01T10:54:22.628203+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.712149551811184,
+      "longitude": 85.33836181854517,
+      "speed_kmh": 10.072793270730228,
+      "heading_deg": 159.50533318601228,
+      "timestamp": "2025-11-01T10:54:24.136120+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.698947560357574,
+      "longitude": 85.34221910465648,
+      "speed_kmh": 13.505284208824518,
+      "heading_deg": 293.66592390636526,
+      "timestamp": "2025-11-01T10:54:25.643268+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "suv",
+      "color": "black",
+      "latitude": 27.701491225719796,
+      "longitude": 85.29997829021188,
+      "speed_kmh": 47.8400206654918,
+      "heading_deg": 178.79962171088943,
+      "timestamp": "2025-11-01T10:54:27.151531+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "suv",
+      "color": "white",
+      "latitude": 27.735992526571348,
+      "longitude": 85.30122170513863,
+      "speed_kmh": 69.84269785798125,
+      "heading_deg": 292.96017458112027,
+      "timestamp": "2025-11-01T10:54:28.659027+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.687261234244524,
+      "longitude": 85.32420990053743,
+      "speed_kmh": 29.679110563557668,
+      "heading_deg": 274.47255685260797,
+      "timestamp": "2025-11-01T10:54:30.168229+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.726745193175116,
+      "longitude": 85.35113293438691,
+      "speed_kmh": 13.263262936395229,
+      "heading_deg": 84.2053077028538,
+      "timestamp": "2025-11-01T10:54:31.677513+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "van",
+      "color": "silver",
+      "latitude": 27.711093035525888,
+      "longitude": 85.30229663261983,
+      "speed_kmh": 33.132015115099605,
+      "heading_deg": 121.33791544992333,
+      "timestamp": "2025-11-01T10:54:33.185330+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.74654040999909,
+      "longitude": 85.34493698870007,
+      "speed_kmh": 22.739250505180863,
+      "heading_deg": 56.97099520625293,
+      "timestamp": "2025-11-01T10:54:34.693961+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.709624898778312,
+      "longitude": 85.33034058345271,
+      "speed_kmh": 26.27574089031842,
+      "heading_deg": 175.9861397500029,
+      "timestamp": "2025-11-01T10:54:36.198090+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "van",
+      "color": "silver",
+      "latitude": 27.69841550983,
+      "longitude": 85.30772109750806,
+      "speed_kmh": 60.88218502698202,
+      "heading_deg": 354.4780909383094,
+      "timestamp": "2025-11-01T10:54:37.702919+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.703663859405832,
+      "longitude": 85.34691675897189,
+      "speed_kmh": 66.80491379776808,
+      "heading_deg": 36.39009909181282,
+      "timestamp": "2025-11-01T10:54:39.215079+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.701627145065206,
+      "longitude": 85.35145942851831,
+      "speed_kmh": 37.731883445577566,
+      "heading_deg": 288.3619248003757,
+      "timestamp": "2025-11-01T10:54:40.726713+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "van",
+      "color": "black",
+      "latitude": 27.714904522792917,
+      "longitude": 85.30917723982576,
+      "speed_kmh": 46.01636119869807,
+      "heading_deg": 116.17532401541328,
+      "timestamp": "2025-11-01T10:54:42.235781+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.73598363788892,
+      "longitude": 85.3390967299311,
+      "speed_kmh": 57.161104933840214,
+      "heading_deg": 160.04308190282003,
+      "timestamp": "2025-11-01T10:54:43.743436+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.746357450074033,
+      "longitude": 85.33759508072374,
+      "speed_kmh": 49.723772178916924,
+      "heading_deg": 346.8131408154784,
+      "timestamp": "2025-11-01T10:54:45.247720+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.703364276463123,
+      "longitude": 85.34848101552159,
+      "speed_kmh": 37.716639084278114,
+      "heading_deg": 208.59037877107284,
+      "timestamp": "2025-11-01T10:54:46.755361+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "suv",
+      "color": "white",
+      "latitude": 27.728804417610068,
+      "longitude": 85.32929757716606,
+      "speed_kmh": 13.18591574965358,
+      "heading_deg": 91.18301505077898,
+      "timestamp": "2025-11-01T10:54:48.259210+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.69098847698472,
+      "longitude": 85.33481753204538,
+      "speed_kmh": 15.88258461934053,
+      "heading_deg": 4.917794075108786,
+      "timestamp": "2025-11-01T10:54:49.766528+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "van",
+      "color": "black",
+      "latitude": 27.735383214228833,
+      "longitude": 85.33638397438223,
+      "speed_kmh": 31.807774412168072,
+      "heading_deg": 352.51132012376826,
+      "timestamp": "2025-11-01T10:54:51.274502+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "suv",
+      "color": "white",
+      "latitude": 27.726695053465917,
+      "longitude": 85.32143834974465,
+      "speed_kmh": 53.40991923543892,
+      "heading_deg": 8.013224383402594,
+      "timestamp": "2025-11-01T10:54:52.781201+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "suv",
+      "color": "white",
+      "latitude": 27.687889535809735,
+      "longitude": 85.33974516926862,
+      "speed_kmh": 35.195943767541294,
+      "heading_deg": 338.6769350248748,
+      "timestamp": "2025-11-01T10:54:54.287845+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.691391007888992,
+      "longitude": 85.2954928933331,
+      "speed_kmh": 48.26878567072998,
+      "heading_deg": 129.2619032765865,
+      "timestamp": "2025-11-01T10:54:55.796922+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "suv",
+      "color": "red",
+      "latitude": 27.741277277539734,
+      "longitude": 85.35204674634525,
+      "speed_kmh": 79.25437256079522,
+      "heading_deg": 324.6567701053435,
+      "timestamp": "2025-11-01T10:54:57.309083+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.707552740754068,
+      "longitude": 85.34593522170842,
+      "speed_kmh": 50.749246606684416,
+      "heading_deg": 101.49974471920298,
+      "timestamp": "2025-11-01T10:54:58.815443+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.68869375755541,
+      "longitude": 85.30226304357728,
+      "speed_kmh": 71.63723095113039,
+      "heading_deg": 58.68804565395844,
+      "timestamp": "2025-11-01T10:55:00.324123+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.724441900002695,
+      "longitude": 85.32826542713305,
+      "speed_kmh": 59.83863887114239,
+      "heading_deg": 304.8797645514594,
+      "timestamp": "2025-11-01T10:55:01.831490+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.72942186954005,
+      "longitude": 85.34331572029467,
+      "speed_kmh": 48.097843171510426,
+      "heading_deg": 133.1731231725807,
+      "timestamp": "2025-11-01T10:55:03.336574+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.71936562517736,
+      "longitude": 85.34435905835043,
+      "speed_kmh": 54.426042651571706,
+      "heading_deg": 86.39889549942296,
+      "timestamp": "2025-11-01T10:55:04.844828+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.70823582627726,
+      "longitude": 85.30517715787582,
+      "speed_kmh": 57.35244932432156,
+      "heading_deg": 301.34718480017557,
+      "timestamp": "2025-11-01T10:55:06.354073+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.713845304456942,
+      "longitude": 85.29737013594603,
+      "speed_kmh": 37.295026132262706,
+      "heading_deg": 143.1726821506622,
+      "timestamp": "2025-11-01T10:55:07.862516+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.708065135957803,
+      "longitude": 85.3060543238309,
+      "speed_kmh": 54.22228334684263,
+      "heading_deg": 236.3356469584917,
+      "timestamp": "2025-11-01T10:55:09.370009+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "sedan",
+      "color": "white",
+      "latitude": 27.73987222191194,
+      "longitude": 85.32919663101885,
+      "speed_kmh": 10.968875861207453,
+      "heading_deg": 142.07506565911734,
+      "timestamp": "2025-11-01T10:55:10.876655+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.71691206583313,
+      "longitude": 85.31193005077972,
+      "speed_kmh": 59.814525964112505,
+      "heading_deg": 64.64147490816792,
+      "timestamp": "2025-11-01T10:55:12.385006+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.740516701552437,
+      "longitude": 85.34178758107798,
+      "speed_kmh": 35.0554635980182,
+      "heading_deg": 12.541720500776904,
+      "timestamp": "2025-11-01T10:55:13.892410+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "van",
+      "color": "black",
+      "latitude": 27.69529574335649,
+      "longitude": 85.31954729325662,
+      "speed_kmh": 64.05516884602551,
+      "heading_deg": 87.90568507615323,
+      "timestamp": "2025-11-01T10:55:15.399946+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "suv",
+      "color": "red",
+      "latitude": 27.712845687294866,
+      "longitude": 85.33759343092572,
+      "speed_kmh": 17.265023499668565,
+      "heading_deg": 150.34716097747528,
+      "timestamp": "2025-11-01T10:55:16.906553+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.747044991091276,
+      "longitude": 85.29612587014407,
+      "speed_kmh": 15.516616691820833,
+      "heading_deg": 206.22655837405514,
+      "timestamp": "2025-11-01T10:55:18.413047+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.71517450794231,
+      "longitude": 85.35071807871114,
+      "speed_kmh": 74.72842576989257,
+      "heading_deg": 158.3736674938819,
+      "timestamp": "2025-11-01T10:55:19.922510+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.73341229537578,
+      "longitude": 85.30908966262011,
+      "speed_kmh": 37.48349844825205,
+      "heading_deg": 279.63628718342926,
+      "timestamp": "2025-11-01T10:55:21.429832+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.70115310119718,
+      "longitude": 85.32809806298661,
+      "speed_kmh": 79.30713255320218,
+      "heading_deg": 110.74522106950148,
+      "timestamp": "2025-11-01T10:55:22.941334+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.701588971141106,
+      "longitude": 85.30005577942065,
+      "speed_kmh": 74.11366808198719,
+      "heading_deg": 136.73075729147314,
+      "timestamp": "2025-11-01T10:55:24.449888+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.704241675763047,
+      "longitude": 85.31838417196398,
+      "speed_kmh": 79.06381584434209,
+      "heading_deg": 31.214711860991926,
+      "timestamp": "2025-11-01T10:55:25.957366+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "sedan",
+      "color": "white",
+      "latitude": 27.694719554287055,
+      "longitude": 85.3514935754915,
+      "speed_kmh": 79.90524089758554,
+      "heading_deg": 100.07702077540782,
+      "timestamp": "2025-11-01T10:55:27.473887+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "suv",
+      "color": "black",
+      "latitude": 27.739513147781807,
+      "longitude": 85.30181765001454,
+      "speed_kmh": 67.31117256541123,
+      "heading_deg": 44.75548983992953,
+      "timestamp": "2025-11-01T10:55:28.980949+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.720735378759155,
+      "longitude": 85.33854456665632,
+      "speed_kmh": 20.104895172653563,
+      "heading_deg": 122.39799153448008,
+      "timestamp": "2025-11-01T10:55:30.487875+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "suv",
+      "color": "red",
+      "latitude": 27.738603396128525,
+      "longitude": 85.34512571080464,
+      "speed_kmh": 57.77212686293616,
+      "heading_deg": 219.9261441665987,
+      "timestamp": "2025-11-01T10:55:31.994748+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.725001136519968,
+      "longitude": 85.30239775434062,
+      "speed_kmh": 12.713253213072166,
+      "heading_deg": 95.03377357116096,
+      "timestamp": "2025-11-01T10:55:33.501518+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.722116019638847,
+      "longitude": 85.31989553388303,
+      "speed_kmh": 22.74854600147584,
+      "heading_deg": 32.80249000510595,
+      "timestamp": "2025-11-01T10:55:35.008879+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.691928036056034,
+      "longitude": 85.35077587944363,
+      "speed_kmh": 32.84862638780571,
+      "heading_deg": 65.78805677434691,
+      "timestamp": "2025-11-01T10:55:36.516675+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "sedan",
+      "color": "white",
+      "latitude": 27.708655983734612,
+      "longitude": 85.3055216602646,
+      "speed_kmh": 67.80037572277018,
+      "heading_deg": 53.99046614745338,
+      "timestamp": "2025-11-01T10:55:38.022794+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "suv",
+      "color": "black",
+      "latitude": 27.694361164478817,
+      "longitude": 85.29826948237081,
+      "speed_kmh": 12.0804616561711,
+      "heading_deg": 99.51748123823842,
+      "timestamp": "2025-11-01T10:55:39.530310+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.745021434033113,
+      "longitude": 85.29988234336031,
+      "speed_kmh": 62.205440417935414,
+      "heading_deg": 249.07929737391896,
+      "timestamp": "2025-11-01T10:55:41.038707+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.699620132382424,
+      "longitude": 85.33954626085736,
+      "speed_kmh": 45.52376409349401,
+      "heading_deg": 14.60161056407491,
+      "timestamp": "2025-11-01T10:55:42.548338+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.69394991563182,
+      "longitude": 85.30503845473736,
+      "speed_kmh": 47.12540704414013,
+      "heading_deg": 136.5807546969279,
+      "timestamp": "2025-11-01T10:55:44.055007+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "van",
+      "color": "black",
+      "latitude": 27.74585606545092,
+      "longitude": 85.30801196456224,
+      "speed_kmh": 43.7944561467705,
+      "heading_deg": 337.03483625662255,
+      "timestamp": "2025-11-01T10:55:45.562215+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.72812469118709,
+      "longitude": 85.32023212584585,
+      "speed_kmh": 38.31592293165106,
+      "heading_deg": 220.96684045483244,
+      "timestamp": "2025-11-01T10:55:47.070467+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.732513683538077,
+      "longitude": 85.30544999920916,
+      "speed_kmh": 27.52057012441251,
+      "heading_deg": 267.8378888765882,
+      "timestamp": "2025-11-01T10:55:48.578396+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.72220873310726,
+      "longitude": 85.31310956538921,
+      "speed_kmh": 56.69979277187755,
+      "heading_deg": 211.2183411721817,
+      "timestamp": "2025-11-01T10:55:50.083812+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.724688884565264,
+      "longitude": 85.3083590525891,
+      "speed_kmh": 25.539236454013434,
+      "heading_deg": 336.9782848235011,
+      "timestamp": "2025-11-01T10:55:51.593416+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.700152875542177,
+      "longitude": 85.32090113811073,
+      "speed_kmh": 39.93790688911253,
+      "heading_deg": 275.0768638181587,
+      "timestamp": "2025-11-01T10:55:53.102112+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.713033878063616,
+      "longitude": 85.34936460737653,
+      "speed_kmh": 14.396504266147026,
+      "heading_deg": 199.6082122809147,
+      "timestamp": "2025-11-01T10:55:54.611596+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.72055529749903,
+      "longitude": 85.34151698101452,
+      "speed_kmh": 51.82836651918419,
+      "heading_deg": 269.9555863521903,
+      "timestamp": "2025-11-01T10:55:56.120335+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "van",
+      "color": "red",
+      "latitude": 27.73476408687068,
+      "longitude": 85.33234935089756,
+      "speed_kmh": 54.048855627002766,
+      "heading_deg": 265.98877302062397,
+      "timestamp": "2025-11-01T10:55:57.627669+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "suv",
+      "color": "black",
+      "latitude": 27.733041870204406,
+      "longitude": 85.29584456608421,
+      "speed_kmh": 49.138629202170634,
+      "heading_deg": 200.8016350797323,
+      "timestamp": "2025-11-01T10:55:59.135279+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "van",
+      "color": "white",
+      "latitude": 27.743837243006467,
+      "longitude": 85.30356536374744,
+      "speed_kmh": 33.433345659048264,
+      "heading_deg": 198.27715555005815,
+      "timestamp": "2025-11-01T10:56:00.640920+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "van",
+      "color": "silver",
+      "latitude": 27.744255112257452,
+      "longitude": 85.30844510189334,
+      "speed_kmh": 75.05222579824536,
+      "heading_deg": 345.68353593583976,
+      "timestamp": "2025-11-01T10:56:02.159447+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "van",
+      "color": "white",
+      "latitude": 27.74272568838032,
+      "longitude": 85.34144093779149,
+      "speed_kmh": 72.4005675392859,
+      "heading_deg": 104.14266065501829,
+      "timestamp": "2025-11-01T10:56:03.669224+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "van",
+      "color": "red",
+      "latitude": 27.68809187961157,
+      "longitude": 85.30735277243926,
+      "speed_kmh": 22.00375905220526,
+      "heading_deg": 152.83080200988232,
+      "timestamp": "2025-11-01T10:56:05.178121+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.72122173906055,
+      "longitude": 85.30842201103299,
+      "speed_kmh": 31.94089570872771,
+      "heading_deg": 283.5206617986729,
+      "timestamp": "2025-11-01T10:56:06.686096+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "van",
+      "color": "red",
+      "latitude": 27.73360944183355,
+      "longitude": 85.32206096418417,
+      "speed_kmh": 22.484643157021132,
+      "heading_deg": 67.06156968742135,
+      "timestamp": "2025-11-01T10:56:08.192237+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "sedan",
+      "color": "white",
+      "latitude": 27.703164803629832,
+      "longitude": 85.33879982068103,
+      "speed_kmh": 77.69747058695542,
+      "heading_deg": 308.05711830776045,
+      "timestamp": "2025-11-01T10:56:09.702609+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.705772842811587,
+      "longitude": 85.29824324876449,
+      "speed_kmh": 36.954206940767094,
+      "heading_deg": 102.34735425734337,
+      "timestamp": "2025-11-01T10:56:11.210095+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.7302506262994,
+      "longitude": 85.30394634920252,
+      "speed_kmh": 44.88042452897667,
+      "heading_deg": 329.10609869796133,
+      "timestamp": "2025-11-01T10:56:12.720452+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.702397503115307,
+      "longitude": 85.35243006430083,
+      "speed_kmh": 40.572435566610615,
+      "heading_deg": 51.84993437345587,
+      "timestamp": "2025-11-01T10:56:14.234464+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.734157608047774,
+      "longitude": 85.34032786287096,
+      "speed_kmh": 27.456264965725218,
+      "heading_deg": 179.8961664342838,
+      "timestamp": "2025-11-01T10:56:15.743204+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "van",
+      "color": "silver",
+      "latitude": 27.732456372072637,
+      "longitude": 85.29659604946677,
+      "speed_kmh": 67.9955742152622,
+      "heading_deg": 355.48907128470603,
+      "timestamp": "2025-11-01T10:56:17.250298+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "suv",
+      "color": "red",
+      "latitude": 27.72081393113536,
+      "longitude": 85.35046649592167,
+      "speed_kmh": 11.610276698546073,
+      "heading_deg": 232.7376861105261,
+      "timestamp": "2025-11-01T10:56:18.759224+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.705203719151115,
+      "longitude": 85.34401665617665,
+      "speed_kmh": 49.96706795086587,
+      "heading_deg": 55.84314700113647,
+      "timestamp": "2025-11-01T10:56:20.268489+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.723194450519628,
+      "longitude": 85.3414749002532,
+      "speed_kmh": 19.886698138924174,
+      "heading_deg": 158.7696525248906,
+      "timestamp": "2025-11-01T10:56:21.783183+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.746388571389353,
+      "longitude": 85.30309444609543,
+      "speed_kmh": 74.94428821836436,
+      "heading_deg": 186.98285633761088,
+      "timestamp": "2025-11-01T10:56:23.292553+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.702971055419567,
+      "longitude": 85.31749505947026,
+      "speed_kmh": 32.772780621404365,
+      "heading_deg": 101.82337297006191,
+      "timestamp": "2025-11-01T10:56:24.802224+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "suv",
+      "color": "white",
+      "latitude": 27.745494341922146,
+      "longitude": 85.34723569019104,
+      "speed_kmh": 49.24004842728836,
+      "heading_deg": 62.94595708300023,
+      "timestamp": "2025-11-01T10:56:26.310677+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.70354445707741,
+      "longitude": 85.32763887732315,
+      "speed_kmh": 17.149450256954008,
+      "heading_deg": 343.3088784742529,
+      "timestamp": "2025-11-01T10:56:27.821463+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.71633470770094,
+      "longitude": 85.33542631047537,
+      "speed_kmh": 54.81950547691544,
+      "heading_deg": 148.73953074058656,
+      "timestamp": "2025-11-01T10:56:29.331732+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.705792145373312,
+      "longitude": 85.33769845479034,
+      "speed_kmh": 51.69740106920646,
+      "heading_deg": 43.24051152047184,
+      "timestamp": "2025-11-01T10:56:30.837630+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "van",
+      "color": "silver",
+      "latitude": 27.727808579860636,
+      "longitude": 85.31880821081306,
+      "speed_kmh": 31.410912747017427,
+      "heading_deg": 15.163260706835576,
+      "timestamp": "2025-11-01T10:56:32.343983+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.6920691671861,
+      "longitude": 85.326807143161,
+      "speed_kmh": 77.59418016951743,
+      "heading_deg": 142.12631944318014,
+      "timestamp": "2025-11-01T10:56:33.852119+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.687235192916756,
+      "longitude": 85.31155216689746,
+      "speed_kmh": 28.239445890726376,
+      "heading_deg": 272.43189244917784,
+      "timestamp": "2025-11-01T10:56:35.359877+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.74235943745947,
+      "longitude": 85.33753053224675,
+      "speed_kmh": 38.85650714942258,
+      "heading_deg": 265.12085548300695,
+      "timestamp": "2025-11-01T10:56:36.867236+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.701779708250402,
+      "longitude": 85.34552589750497,
+      "speed_kmh": 36.067557429985314,
+      "heading_deg": 290.43132300252654,
+      "timestamp": "2025-11-01T10:56:38.374516+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.697537337558547,
+      "longitude": 85.33410599243086,
+      "speed_kmh": 46.91101339418203,
+      "heading_deg": 138.51929049549327,
+      "timestamp": "2025-11-01T10:56:39.883615+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "suv",
+      "color": "red",
+      "latitude": 27.723024647002116,
+      "longitude": 85.30513230159026,
+      "speed_kmh": 49.029963773559246,
+      "heading_deg": 62.430527155806004,
+      "timestamp": "2025-11-01T10:56:41.388421+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.743550232687255,
+      "longitude": 85.31880929109899,
+      "speed_kmh": 51.01232435854363,
+      "heading_deg": 16.919320529191438,
+      "timestamp": "2025-11-01T10:56:42.896837+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.699055396407143,
+      "longitude": 85.3203995581253,
+      "speed_kmh": 29.596197787182067,
+      "heading_deg": 295.0682923309007,
+      "timestamp": "2025-11-01T10:56:44.403976+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.692039151676102,
+      "longitude": 85.34598689934788,
+      "speed_kmh": 12.59470586442205,
+      "heading_deg": 90.97604728128972,
+      "timestamp": "2025-11-01T10:56:45.912029+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "van",
+      "color": "red",
+      "latitude": 27.717925576469675,
+      "longitude": 85.32611869997072,
+      "speed_kmh": 56.51404786294521,
+      "heading_deg": 346.8845379763529,
+      "timestamp": "2025-11-01T10:56:47.419955+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "sedan",
+      "color": "white",
+      "latitude": 27.74030674397624,
+      "longitude": 85.33296108614665,
+      "speed_kmh": 78.13710968680482,
+      "heading_deg": 145.09985932432954,
+      "timestamp": "2025-11-01T10:56:48.928146+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.69294720483217,
+      "longitude": 85.3302539787879,
+      "speed_kmh": 28.40315982972074,
+      "heading_deg": 155.63332057816422,
+      "timestamp": "2025-11-01T10:56:50.436979+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.70880566203364,
+      "longitude": 85.30664915819472,
+      "speed_kmh": 17.30215615148478,
+      "heading_deg": 82.18579609591431,
+      "timestamp": "2025-11-01T10:56:51.942109+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "suv",
+      "color": "red",
+      "latitude": 27.740509375372724,
+      "longitude": 85.3083001098169,
+      "speed_kmh": 65.56634441679455,
+      "heading_deg": 240.4247050741045,
+      "timestamp": "2025-11-01T10:56:53.450898+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.73871979585055,
+      "longitude": 85.29483971776274,
+      "speed_kmh": 25.000485845694328,
+      "heading_deg": 337.9854382058485,
+      "timestamp": "2025-11-01T10:56:54.962924+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.734694140022924,
+      "longitude": 85.31938736356894,
+      "speed_kmh": 79.77584446091025,
+      "heading_deg": 203.98972154921094,
+      "timestamp": "2025-11-01T10:56:56.472134+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.689850685594834,
+      "longitude": 85.3222587339726,
+      "speed_kmh": 46.61719212537149,
+      "heading_deg": 347.9793713019051,
+      "timestamp": "2025-11-01T10:56:57.982849+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.72421024143929,
+      "longitude": 85.34820417537384,
+      "speed_kmh": 67.39579482255903,
+      "heading_deg": 346.605015263114,
+      "timestamp": "2025-11-01T10:56:59.489597+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.73724920884605,
+      "longitude": 85.30157533014075,
+      "speed_kmh": 15.343285458338254,
+      "heading_deg": 281.56941164233996,
+      "timestamp": "2025-11-01T10:57:00.999233+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.74194978293985,
+      "longitude": 85.32175513419001,
+      "speed_kmh": 17.443752497413048,
+      "heading_deg": 304.7013282275866,
+      "timestamp": "2025-11-01T10:57:02.508537+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.709575259488822,
+      "longitude": 85.30621248430113,
+      "speed_kmh": 42.869741659267504,
+      "heading_deg": 271.57293768247024,
+      "timestamp": "2025-11-01T10:57:04.023426+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.700034904295702,
+      "longitude": 85.31068108928649,
+      "speed_kmh": 56.8516803136933,
+      "heading_deg": 169.38847084467523,
+      "timestamp": "2025-11-01T10:57:05.537448+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "van",
+      "color": "red",
+      "latitude": 27.74545321359661,
+      "longitude": 85.31638212858607,
+      "speed_kmh": 62.58947672322479,
+      "heading_deg": 348.05858859828214,
+      "timestamp": "2025-11-01T10:57:07.044205+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.7054914647131,
+      "longitude": 85.29828777972982,
+      "speed_kmh": 77.2161338038011,
+      "heading_deg": 105.10608877071594,
+      "timestamp": "2025-11-01T10:57:08.550746+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.745884197771602,
+      "longitude": 85.34912513090083,
+      "speed_kmh": 29.322411252071735,
+      "heading_deg": 146.09760790424593,
+      "timestamp": "2025-11-01T10:57:10.059259+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.688682812641165,
+      "longitude": 85.3365733533642,
+      "speed_kmh": 53.76263384630987,
+      "heading_deg": 256.4725595195788,
+      "timestamp": "2025-11-01T10:57:11.567348+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.70590299392373,
+      "longitude": 85.30163329895122,
+      "speed_kmh": 69.58714321222885,
+      "heading_deg": 322.6261178873889,
+      "timestamp": "2025-11-01T10:57:13.074121+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "van",
+      "color": "white",
+      "latitude": 27.69724684834488,
+      "longitude": 85.29509556394774,
+      "speed_kmh": 30.997644048711717,
+      "heading_deg": 319.83282257395376,
+      "timestamp": "2025-11-01T10:57:14.578646+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.704563194130465,
+      "longitude": 85.32580709332778,
+      "speed_kmh": 71.21496514437061,
+      "heading_deg": 268.26532472679025,
+      "timestamp": "2025-11-01T10:57:16.085945+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.69733101031367,
+      "longitude": 85.33961788495202,
+      "speed_kmh": 68.72991323415911,
+      "heading_deg": 106.545672329195,
+      "timestamp": "2025-11-01T10:57:17.596339+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "suv",
+      "color": "white",
+      "latitude": 27.72073058562239,
+      "longitude": 85.33031195791847,
+      "speed_kmh": 41.49799671683752,
+      "heading_deg": 284.60270557682963,
+      "timestamp": "2025-11-01T10:57:19.112074+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.71651105180495,
+      "longitude": 85.32991097648664,
+      "speed_kmh": 39.45955783177793,
+      "heading_deg": 178.01666614451398,
+      "timestamp": "2025-11-01T10:57:20.620716+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.701557653080712,
+      "longitude": 85.32275988551952,
+      "speed_kmh": 74.96415450437289,
+      "heading_deg": 348.9886237306087,
+      "timestamp": "2025-11-01T10:57:22.130282+00:00"
+    },
+    {
+      "plate_number": "BA 12 P 1234",
+      "vehicle_type": "Car",
+      "color": "White",
+      "latitude": 27.7172,
+      "longitude": 85.324,
+      "speed_kmh": 30.0,
+      "heading_deg": 90.0,
+      "timestamp": "2025-11-01T11:30:32.801805+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "sedan",
+      "color": "white",
+      "latitude": 27.6976883505295,
+      "longitude": 85.32578818371421,
+      "speed_kmh": 58.39325182789924,
+      "heading_deg": 33.90721582397884,
+      "timestamp": "2025-11-01T11:57:56.612441+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.735523017626754,
+      "longitude": 85.32573756782459,
+      "speed_kmh": 73.74022215259166,
+      "heading_deg": 254.33533506353913,
+      "timestamp": "2025-11-01T11:57:57.620217+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "suv",
+      "color": "white",
+      "latitude": 27.71661102664408,
+      "longitude": 85.32717612842987,
+      "speed_kmh": 41.11746042183105,
+      "heading_deg": 187.7290031914967,
+      "timestamp": "2025-11-01T11:57:58.629279+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.7391184543347,
+      "longitude": 85.32118567728114,
+      "speed_kmh": 24.98567556077029,
+      "heading_deg": 106.61391917445863,
+      "timestamp": "2025-11-01T11:57:59.643185+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.71231504312012,
+      "longitude": 85.29589814030047,
+      "speed_kmh": 48.809790139874046,
+      "heading_deg": 320.6403630560492,
+      "timestamp": "2025-11-01T11:58:00.652123+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "suv",
+      "color": "white",
+      "latitude": 27.698562018191506,
+      "longitude": 85.31385214601433,
+      "speed_kmh": 46.3835438642249,
+      "heading_deg": 211.63597903897778,
+      "timestamp": "2025-11-01T11:58:01.658814+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.73368418475999,
+      "longitude": 85.34417102265797,
+      "speed_kmh": 63.45311247056458,
+      "heading_deg": 54.98853377071579,
+      "timestamp": "2025-11-01T11:58:02.667110+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "van",
+      "color": "white",
+      "latitude": 27.70688183858226,
+      "longitude": 85.30237567380338,
+      "speed_kmh": 49.87413637572786,
+      "heading_deg": 183.2107409259568,
+      "timestamp": "2025-11-01T11:58:03.674778+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "van",
+      "color": "black",
+      "latitude": 27.732922134829515,
+      "longitude": 85.31367925889974,
+      "speed_kmh": 76.92531848955859,
+      "heading_deg": 8.824275465252382,
+      "timestamp": "2025-11-01T11:58:04.682647+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "van",
+      "color": "white",
+      "latitude": 27.746891777184548,
+      "longitude": 85.31714812024019,
+      "speed_kmh": 39.55162080818735,
+      "heading_deg": 107.11522241764507,
+      "timestamp": "2025-11-01T11:58:05.699146+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.74605887374525,
+      "longitude": 85.3316073661256,
+      "speed_kmh": 42.321258619297694,
+      "heading_deg": 322.1652395166031,
+      "timestamp": "2025-11-01T11:58:06.711977+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.722179043553783,
+      "longitude": 85.34637949396922,
+      "speed_kmh": 44.210946326269486,
+      "heading_deg": 92.73855483754954,
+      "timestamp": "2025-11-01T11:58:07.720031+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "van",
+      "color": "silver",
+      "latitude": 27.72535138032609,
+      "longitude": 85.32514197787296,
+      "speed_kmh": 46.47518659987821,
+      "heading_deg": 18.655514182886577,
+      "timestamp": "2025-11-01T11:58:08.726733+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.710754671034465,
+      "longitude": 85.31776127949345,
+      "speed_kmh": 31.82710960857105,
+      "heading_deg": 65.8445023015063,
+      "timestamp": "2025-11-01T11:58:09.736476+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "sedan",
+      "color": "white",
+      "latitude": 27.69809576915796,
+      "longitude": 85.34199262174918,
+      "speed_kmh": 68.32563041159386,
+      "heading_deg": 178.00824018012997,
+      "timestamp": "2025-11-01T11:58:10.742948+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.703988767203963,
+      "longitude": 85.29974775559893,
+      "speed_kmh": 13.027040416143718,
+      "heading_deg": 53.628408656158925,
+      "timestamp": "2025-11-01T11:58:11.747139+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "van",
+      "color": "black",
+      "latitude": 27.72887795448927,
+      "longitude": 85.33310943270354,
+      "speed_kmh": 35.48709442559672,
+      "heading_deg": 138.20728609454085,
+      "timestamp": "2025-11-01T11:58:12.753701+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.74672671440588,
+      "longitude": 85.30362953245069,
+      "speed_kmh": 67.27560919754771,
+      "heading_deg": 183.87934998884649,
+      "timestamp": "2025-11-01T11:58:13.762250+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.69289306141451,
+      "longitude": 85.3212754340413,
+      "speed_kmh": 64.03654046230315,
+      "heading_deg": 353.1026203426924,
+      "timestamp": "2025-11-01T11:58:14.766664+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "van",
+      "color": "black",
+      "latitude": 27.720643994695198,
+      "longitude": 85.33368661073236,
+      "speed_kmh": 55.00761084800342,
+      "heading_deg": 275.03475911259494,
+      "timestamp": "2025-11-01T11:58:15.771174+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "sedan",
+      "color": "white",
+      "latitude": 27.721450745719793,
+      "longitude": 85.35256122688381,
+      "speed_kmh": 44.79235811061414,
+      "heading_deg": 120.95003905107274,
+      "timestamp": "2025-11-01T11:58:16.778675+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "suv",
+      "color": "black",
+      "latitude": 27.72329868177619,
+      "longitude": 85.34028322789091,
+      "speed_kmh": 19.109971296145314,
+      "heading_deg": 13.067135427649328,
+      "timestamp": "2025-11-01T11:58:17.786245+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.734830586886773,
+      "longitude": 85.34762882389163,
+      "speed_kmh": 73.67368698400489,
+      "heading_deg": 229.21635471945308,
+      "timestamp": "2025-11-01T11:58:18.799364+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "suv",
+      "color": "white",
+      "latitude": 27.719327426033544,
+      "longitude": 85.3119833752614,
+      "speed_kmh": 30.170305492654506,
+      "heading_deg": 142.71638760679016,
+      "timestamp": "2025-11-01T11:58:19.808582+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.72878269967216,
+      "longitude": 85.31273986471531,
+      "speed_kmh": 78.63929050237546,
+      "heading_deg": 357.1637576832319,
+      "timestamp": "2025-11-01T11:58:20.821931+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.718782517113784,
+      "longitude": 85.3538172932601,
+      "speed_kmh": 35.90311394148044,
+      "heading_deg": 150.22456272461648,
+      "timestamp": "2025-11-01T11:58:21.828148+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "suv",
+      "color": "red",
+      "latitude": 27.72551918234542,
+      "longitude": 85.33140680963338,
+      "speed_kmh": 39.39459523099562,
+      "heading_deg": 9.419689483783461,
+      "timestamp": "2025-11-01T11:58:22.835230+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.703593109781508,
+      "longitude": 85.3527289899974,
+      "speed_kmh": 51.15124208426052,
+      "heading_deg": 105.65779396701048,
+      "timestamp": "2025-11-01T11:58:23.843286+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "suv",
+      "color": "white",
+      "latitude": 27.7279953713774,
+      "longitude": 85.33014511186622,
+      "speed_kmh": 71.9549606821235,
+      "heading_deg": 222.24928120219082,
+      "timestamp": "2025-11-01T11:58:24.858251+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.6921738442414,
+      "longitude": 85.29639317599103,
+      "speed_kmh": 68.9207236512168,
+      "heading_deg": 48.60436848658911,
+      "timestamp": "2025-11-01T11:58:25.864721+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.724594219594458,
+      "longitude": 85.32747256881474,
+      "speed_kmh": 69.07438626465688,
+      "heading_deg": 344.55823879072506,
+      "timestamp": "2025-11-01T11:58:26.874382+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.722438997385357,
+      "longitude": 85.30412150956013,
+      "speed_kmh": 49.95850960066878,
+      "heading_deg": 106.06907513296841,
+      "timestamp": "2025-11-01T11:58:27.884545+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "sedan",
+      "color": "white",
+      "latitude": 27.704221760945764,
+      "longitude": 85.33800200451047,
+      "speed_kmh": 62.62019688740218,
+      "heading_deg": 271.48919643110725,
+      "timestamp": "2025-11-01T11:58:28.892753+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.69735800364662,
+      "longitude": 85.31445222363163,
+      "speed_kmh": 67.83977935044739,
+      "heading_deg": 0.9570463149443542,
+      "timestamp": "2025-11-01T11:58:29.897480+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "sedan",
+      "color": "white",
+      "latitude": 27.70056699455912,
+      "longitude": 85.31258975952177,
+      "speed_kmh": 47.015038594327336,
+      "heading_deg": 147.75127423566994,
+      "timestamp": "2025-11-01T11:58:30.912666+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.732834643160423,
+      "longitude": 85.31604369275769,
+      "speed_kmh": 69.22176693222197,
+      "heading_deg": 347.89739829419995,
+      "timestamp": "2025-11-01T11:58:31.934470+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.735299759628624,
+      "longitude": 85.3193855097209,
+      "speed_kmh": 67.55825177968596,
+      "heading_deg": 71.26497352291388,
+      "timestamp": "2025-11-01T11:58:32.945056+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "van",
+      "color": "silver",
+      "latitude": 27.71067931657466,
+      "longitude": 85.31314285290502,
+      "speed_kmh": 76.45446169686419,
+      "heading_deg": 45.71671552324055,
+      "timestamp": "2025-11-01T11:58:33.950845+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.710310577485817,
+      "longitude": 85.29959326440668,
+      "speed_kmh": 50.600310327757114,
+      "heading_deg": 291.8863513118215,
+      "timestamp": "2025-11-01T11:58:34.962671+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.698974359118495,
+      "longitude": 85.33693586138745,
+      "speed_kmh": 18.344960477754647,
+      "heading_deg": 85.3187167931772,
+      "timestamp": "2025-11-01T11:58:35.969303+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "van",
+      "color": "silver",
+      "latitude": 27.71486289589266,
+      "longitude": 85.29427247855418,
+      "speed_kmh": 60.13836188480922,
+      "heading_deg": 150.82022639327937,
+      "timestamp": "2025-11-01T11:58:36.976866+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.73688655844223,
+      "longitude": 85.34690328712406,
+      "speed_kmh": 32.28294562233508,
+      "heading_deg": 130.65951878715774,
+      "timestamp": "2025-11-01T11:58:37.988377+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.68738005222616,
+      "longitude": 85.33981651257399,
+      "speed_kmh": 42.70879789400462,
+      "heading_deg": 315.23284694100767,
+      "timestamp": "2025-11-01T11:58:38.995239+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.728648347236707,
+      "longitude": 85.31355002700084,
+      "speed_kmh": 30.747862470590405,
+      "heading_deg": 204.6342459032917,
+      "timestamp": "2025-11-01T11:58:40.001095+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "suv",
+      "color": "white",
+      "latitude": 27.731724452144185,
+      "longitude": 85.31171784768507,
+      "speed_kmh": 37.493411625209326,
+      "heading_deg": 342.77272502040387,
+      "timestamp": "2025-11-01T11:58:41.007679+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.69684547288098,
+      "longitude": 85.29755885730678,
+      "speed_kmh": 58.02103437396738,
+      "heading_deg": 16.177411627106583,
+      "timestamp": "2025-11-01T11:58:42.014389+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "suv",
+      "color": "red",
+      "latitude": 27.730394660221403,
+      "longitude": 85.30286520528786,
+      "speed_kmh": 20.928866553917864,
+      "heading_deg": 312.3620795723948,
+      "timestamp": "2025-11-01T11:58:43.018612+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "suv",
+      "color": "black",
+      "latitude": 27.708249034739776,
+      "longitude": 85.32193167049877,
+      "speed_kmh": 17.685376433512108,
+      "heading_deg": 2.3519766919486917,
+      "timestamp": "2025-11-01T11:58:44.025878+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.712721099138818,
+      "longitude": 85.32152985909693,
+      "speed_kmh": 26.591684468798412,
+      "heading_deg": 106.14215355036593,
+      "timestamp": "2025-11-01T11:58:45.033146+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.723783896825147,
+      "longitude": 85.31769739429983,
+      "speed_kmh": 16.732618331097108,
+      "heading_deg": 229.70964351383802,
+      "timestamp": "2025-11-01T11:58:46.039397+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "suv",
+      "color": "black",
+      "latitude": 27.73772298653074,
+      "longitude": 85.29527405612585,
+      "speed_kmh": 42.49368578681076,
+      "heading_deg": 193.8685207314539,
+      "timestamp": "2025-11-01T11:58:47.044754+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.741376448065708,
+      "longitude": 85.32911128533078,
+      "speed_kmh": 64.8372023049356,
+      "heading_deg": 201.2847380572153,
+      "timestamp": "2025-11-01T11:58:48.049662+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.70959578059722,
+      "longitude": 85.34836704345472,
+      "speed_kmh": 18.16536217500866,
+      "heading_deg": 277.7925117860501,
+      "timestamp": "2025-11-01T11:58:49.056508+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.697019993634218,
+      "longitude": 85.3123111849967,
+      "speed_kmh": 11.232632878379222,
+      "heading_deg": 226.10942349611426,
+      "timestamp": "2025-11-01T11:58:50.061275+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.69947136122505,
+      "longitude": 85.29932583933743,
+      "speed_kmh": 66.42451342091445,
+      "heading_deg": 279.81973525133395,
+      "timestamp": "2025-11-01T11:58:51.067830+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "van",
+      "color": "red",
+      "latitude": 27.74155802968718,
+      "longitude": 85.33242303228624,
+      "speed_kmh": 52.18111740945477,
+      "heading_deg": 61.11833636337351,
+      "timestamp": "2025-11-01T11:58:52.077665+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.729723373423177,
+      "longitude": 85.30454339734354,
+      "speed_kmh": 52.27952111359133,
+      "heading_deg": 112.3099749541532,
+      "timestamp": "2025-11-01T11:58:53.093004+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "van",
+      "color": "silver",
+      "latitude": 27.697505558408892,
+      "longitude": 85.32056649589056,
+      "speed_kmh": 11.154304445131373,
+      "heading_deg": 194.31415960798435,
+      "timestamp": "2025-11-01T11:58:54.101064+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.724183872742298,
+      "longitude": 85.31873402712742,
+      "speed_kmh": 32.870138422079364,
+      "heading_deg": 30.88441856335934,
+      "timestamp": "2025-11-01T11:58:55.110538+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.736749035522017,
+      "longitude": 85.35236920467477,
+      "speed_kmh": 33.87192194612415,
+      "heading_deg": 288.1019266077038,
+      "timestamp": "2025-11-01T11:58:56.119598+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.700209715385576,
+      "longitude": 85.31556368508154,
+      "speed_kmh": 37.67554032105134,
+      "heading_deg": 186.81472755498493,
+      "timestamp": "2025-11-01T11:58:57.127743+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.707473448754946,
+      "longitude": 85.3220767667309,
+      "speed_kmh": 44.641981910525374,
+      "heading_deg": 205.51191176666256,
+      "timestamp": "2025-11-01T11:58:58.135478+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.742228841911686,
+      "longitude": 85.3507628537673,
+      "speed_kmh": 63.16891501330431,
+      "heading_deg": 174.14624214169172,
+      "timestamp": "2025-11-01T11:58:59.142261+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.693603393626084,
+      "longitude": 85.32443564022783,
+      "speed_kmh": 66.78014775450467,
+      "heading_deg": 217.74560938246833,
+      "timestamp": "2025-11-01T11:59:00.149053+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.71052396006093,
+      "longitude": 85.33930276768591,
+      "speed_kmh": 29.687313363442474,
+      "heading_deg": 17.31099830336842,
+      "timestamp": "2025-11-01T11:59:01.158515+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.689914913728884,
+      "longitude": 85.29762870815486,
+      "speed_kmh": 72.1368302803468,
+      "heading_deg": 160.80174051712314,
+      "timestamp": "2025-11-01T11:59:02.168696+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "van",
+      "color": "white",
+      "latitude": 27.6902838193586,
+      "longitude": 85.33569598997269,
+      "speed_kmh": 33.65861029753947,
+      "heading_deg": 56.988892588345394,
+      "timestamp": "2025-11-01T11:59:03.182851+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.737258038635588,
+      "longitude": 85.34732739654768,
+      "speed_kmh": 30.73090585436161,
+      "heading_deg": 298.930457706578,
+      "timestamp": "2025-11-01T11:59:04.187996+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "van",
+      "color": "white",
+      "latitude": 27.732168772332706,
+      "longitude": 85.30202010055812,
+      "speed_kmh": 29.283559940743455,
+      "heading_deg": 15.739953873184511,
+      "timestamp": "2025-11-01T11:59:05.195751+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "suv",
+      "color": "black",
+      "latitude": 27.71942067673634,
+      "longitude": 85.32987885555688,
+      "speed_kmh": 68.01430320745946,
+      "heading_deg": 181.20060341158148,
+      "timestamp": "2025-11-01T11:59:06.202943+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "suv",
+      "color": "black",
+      "latitude": 27.701392455787417,
+      "longitude": 85.30045084265434,
+      "speed_kmh": 41.216864940202456,
+      "heading_deg": 306.7992631226912,
+      "timestamp": "2025-11-01T11:59:07.212375+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "van",
+      "color": "red",
+      "latitude": 27.727762633448062,
+      "longitude": 85.29932551914588,
+      "speed_kmh": 48.14627430190129,
+      "heading_deg": 97.05269861345025,
+      "timestamp": "2025-11-01T11:59:08.219556+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "suv",
+      "color": "white",
+      "latitude": 27.73501287832118,
+      "longitude": 85.30683645091352,
+      "speed_kmh": 38.39154968415458,
+      "heading_deg": 295.1890154966712,
+      "timestamp": "2025-11-01T11:59:09.230912+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "van",
+      "color": "silver",
+      "latitude": 27.70147574447492,
+      "longitude": 85.32066687831113,
+      "speed_kmh": 48.89007380634532,
+      "heading_deg": 10.070455203201195,
+      "timestamp": "2025-11-01T11:59:10.238200+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.736072644416428,
+      "longitude": 85.34642526847813,
+      "speed_kmh": 36.60265525247833,
+      "heading_deg": 44.5609557845047,
+      "timestamp": "2025-11-01T11:59:11.245242+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.709497885545915,
+      "longitude": 85.30362005016826,
+      "speed_kmh": 50.46510551933202,
+      "heading_deg": 156.7498382407846,
+      "timestamp": "2025-11-01T11:59:12.255462+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.691638390154253,
+      "longitude": 85.29677485995965,
+      "speed_kmh": 21.40248848652187,
+      "heading_deg": 129.93553904418172,
+      "timestamp": "2025-11-01T11:59:13.264713+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.720965194181087,
+      "longitude": 85.32734538157915,
+      "speed_kmh": 13.493935524581888,
+      "heading_deg": 21.893958775427073,
+      "timestamp": "2025-11-01T11:59:14.273534+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.735190489206268,
+      "longitude": 85.30515359006345,
+      "speed_kmh": 39.83805824136404,
+      "heading_deg": 294.8085030283979,
+      "timestamp": "2025-11-01T11:59:15.284301+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.717563439668005,
+      "longitude": 85.34429891063088,
+      "speed_kmh": 24.20392436904629,
+      "heading_deg": 116.74517935842842,
+      "timestamp": "2025-11-01T11:59:16.292033+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "suv",
+      "color": "red",
+      "latitude": 27.726245282555556,
+      "longitude": 85.34327947350873,
+      "speed_kmh": 20.330685997272855,
+      "heading_deg": 358.9458639289845,
+      "timestamp": "2025-11-01T11:59:17.300310+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "van",
+      "color": "black",
+      "latitude": 27.743430922933936,
+      "longitude": 85.33751991955131,
+      "speed_kmh": 67.08672209718796,
+      "heading_deg": 74.35100084770407,
+      "timestamp": "2025-11-01T11:59:18.307174+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.72274800350206,
+      "longitude": 85.34910707762116,
+      "speed_kmh": 55.21699072348474,
+      "heading_deg": 278.6927286445385,
+      "timestamp": "2025-11-01T11:59:19.314312+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.704108878233008,
+      "longitude": 85.3119747963025,
+      "speed_kmh": 28.8249262748399,
+      "heading_deg": 287.6193975662071,
+      "timestamp": "2025-11-01T11:59:20.321393+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.72053100296441,
+      "longitude": 85.34681504285507,
+      "speed_kmh": 42.195816450491435,
+      "heading_deg": 308.1138322839924,
+      "timestamp": "2025-11-01T11:59:21.328725+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.742227848841573,
+      "longitude": 85.35332389088524,
+      "speed_kmh": 10.505128858925278,
+      "heading_deg": 51.3067009746679,
+      "timestamp": "2025-11-01T11:59:22.337458+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.700474442515198,
+      "longitude": 85.29423821806776,
+      "speed_kmh": 77.61444459286207,
+      "heading_deg": 243.19460629510777,
+      "timestamp": "2025-11-01T11:59:23.345290+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "sedan",
+      "color": "white",
+      "latitude": 27.70810255765188,
+      "longitude": 85.317465698274,
+      "speed_kmh": 32.13884755928263,
+      "heading_deg": 265.68805305016946,
+      "timestamp": "2025-11-01T11:59:24.353396+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "suv",
+      "color": "red",
+      "latitude": 27.70042769477623,
+      "longitude": 85.31328951321939,
+      "speed_kmh": 47.796033316487026,
+      "heading_deg": 198.10839765231748,
+      "timestamp": "2025-11-01T11:59:25.361155+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.72328244279527,
+      "longitude": 85.29784579782107,
+      "speed_kmh": 45.11499204921812,
+      "heading_deg": 155.70986347806684,
+      "timestamp": "2025-11-01T11:59:26.369142+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.705059128693986,
+      "longitude": 85.30431719393798,
+      "speed_kmh": 76.90512173883428,
+      "heading_deg": 10.549675124078046,
+      "timestamp": "2025-11-01T11:59:27.377102+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.70957006252064,
+      "longitude": 85.29502789066919,
+      "speed_kmh": 42.77489709363958,
+      "heading_deg": 79.1395312198654,
+      "timestamp": "2025-11-01T11:59:28.384848+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.71717191562526,
+      "longitude": 85.34365377109208,
+      "speed_kmh": 53.57973659007007,
+      "heading_deg": 282.56527598580544,
+      "timestamp": "2025-11-01T11:59:29.393743+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "suv",
+      "color": "black",
+      "latitude": 27.716302424328003,
+      "longitude": 85.3297537898165,
+      "speed_kmh": 38.391876283489026,
+      "heading_deg": 244.08644673480504,
+      "timestamp": "2025-11-01T11:59:30.401940+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.72956008463939,
+      "longitude": 85.33210417168117,
+      "speed_kmh": 30.389755555993442,
+      "heading_deg": 25.103794991766804,
+      "timestamp": "2025-11-01T11:59:31.416946+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "suv",
+      "color": "red",
+      "latitude": 27.734577650652707,
+      "longitude": 85.3369706056199,
+      "speed_kmh": 73.18232763303347,
+      "heading_deg": 157.70824683909578,
+      "timestamp": "2025-11-01T11:59:32.423416+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "van",
+      "color": "white",
+      "latitude": 27.709238819189995,
+      "longitude": 85.29810581654912,
+      "speed_kmh": 70.12735212768818,
+      "heading_deg": 145.84666947467204,
+      "timestamp": "2025-11-01T11:59:33.431851+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.722620506134223,
+      "longitude": 85.31390435751776,
+      "speed_kmh": 10.607518517061882,
+      "heading_deg": 122.19376134292098,
+      "timestamp": "2025-11-01T11:59:34.445085+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.70570214888403,
+      "longitude": 85.31316580616547,
+      "speed_kmh": 11.781821222079698,
+      "heading_deg": 204.3819758097061,
+      "timestamp": "2025-11-01T11:59:35.452067+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "suv",
+      "color": "black",
+      "latitude": 27.734692854201807,
+      "longitude": 85.33259271552006,
+      "speed_kmh": 28.985503183572593,
+      "heading_deg": 343.260207772502,
+      "timestamp": "2025-11-01T11:59:36.458814+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "van",
+      "color": "black",
+      "latitude": 27.69109551290682,
+      "longitude": 85.32436499160586,
+      "speed_kmh": 57.34673321267901,
+      "heading_deg": 11.089660867516775,
+      "timestamp": "2025-11-01T11:59:37.467201+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.741979858807028,
+      "longitude": 85.33152598518434,
+      "speed_kmh": 70.12618775884971,
+      "heading_deg": 26.52947995098405,
+      "timestamp": "2025-11-01T11:59:38.476058+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "suv",
+      "color": "black",
+      "latitude": 27.711850624262496,
+      "longitude": 85.34227494900351,
+      "speed_kmh": 16.67422751475965,
+      "heading_deg": 125.8224177172724,
+      "timestamp": "2025-11-01T11:59:39.483300+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.72931137951142,
+      "longitude": 85.34635910525147,
+      "speed_kmh": 24.771931198089604,
+      "heading_deg": 114.33327295659326,
+      "timestamp": "2025-11-01T11:59:45.171344+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "sedan",
+      "color": "silver",
+      "latitude": 27.7190685853975,
+      "longitude": 85.32425679362393,
+      "speed_kmh": 32.89880007236131,
+      "heading_deg": 288.44290283501414,
+      "timestamp": "2025-11-01T11:59:50.180037+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.72430888776922,
+      "longitude": 85.34875332458273,
+      "speed_kmh": 38.524294996452724,
+      "heading_deg": 46.025869436491845,
+      "timestamp": "2025-11-01T11:59:55.185614+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "suv",
+      "color": "white",
+      "latitude": 27.712586285674337,
+      "longitude": 85.30627952790812,
+      "speed_kmh": 53.830456046580146,
+      "heading_deg": 323.5664584836137,
+      "timestamp": "2025-11-01T12:00:00.194490+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.69269233502591,
+      "longitude": 85.32992293529895,
+      "speed_kmh": 39.239148674212544,
+      "heading_deg": 62.15863499631974,
+      "timestamp": "2025-11-01T12:00:05.209018+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.726109050215772,
+      "longitude": 85.35327074681179,
+      "speed_kmh": 27.44148248592943,
+      "heading_deg": 230.40321301160247,
+      "timestamp": "2025-11-01T12:00:10.213322+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "sedan",
+      "color": "white",
+      "latitude": 27.70653124712844,
+      "longitude": 85.35007871709006,
+      "speed_kmh": 38.061770955145306,
+      "heading_deg": 301.3753833840913,
+      "timestamp": "2025-11-01T12:00:15.221764+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.728798660278947,
+      "longitude": 85.31278964860816,
+      "speed_kmh": 49.2156647174296,
+      "heading_deg": 202.34655955182927,
+      "timestamp": "2025-11-01T12:00:20.234804+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "van",
+      "color": "white",
+      "latitude": 27.69851727663386,
+      "longitude": 85.33608491189354,
+      "speed_kmh": 37.64821842565814,
+      "heading_deg": 274.9493602712587,
+      "timestamp": "2025-11-01T12:00:25.240452+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.696842074030535,
+      "longitude": 85.33477006470078,
+      "speed_kmh": 23.88333515130576,
+      "heading_deg": 92.95998289892337,
+      "timestamp": "2025-11-01T12:00:30.247368+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "van",
+      "color": "white",
+      "latitude": 27.69647119714528,
+      "longitude": 85.33538945271803,
+      "speed_kmh": 70.01135668909139,
+      "heading_deg": 49.45573628511161,
+      "timestamp": "2025-11-01T12:00:35.255448+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.70333868182407,
+      "longitude": 85.33658893619668,
+      "speed_kmh": 72.91717443333005,
+      "heading_deg": 39.96399573086098,
+      "timestamp": "2025-11-01T12:00:40.259666+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "van",
+      "color": "black",
+      "latitude": 27.690070855154783,
+      "longitude": 85.31356127733282,
+      "speed_kmh": 29.200617176803156,
+      "heading_deg": 313.222892460812,
+      "timestamp": "2025-11-01T12:00:45.267459+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "van",
+      "color": "white",
+      "latitude": 27.72767529030849,
+      "longitude": 85.31875087435637,
+      "speed_kmh": 35.277377259943364,
+      "heading_deg": 99.97916887759449,
+      "timestamp": "2025-11-01T12:00:50.278102+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.73310846985011,
+      "longitude": 85.33743546511144,
+      "speed_kmh": 54.20316338509528,
+      "heading_deg": 19.706127343364695,
+      "timestamp": "2025-11-01T12:00:55.287385+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.68913380451003,
+      "longitude": 85.309087388067,
+      "speed_kmh": 16.94536862971367,
+      "heading_deg": 251.8079260280896,
+      "timestamp": "2025-11-01T12:01:00.295071+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.71413402744115,
+      "longitude": 85.32395870223469,
+      "speed_kmh": 35.36609450455021,
+      "heading_deg": 321.06005155481466,
+      "timestamp": "2025-11-01T12:01:05.301299+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "van",
+      "color": "white",
+      "latitude": 27.74705754695594,
+      "longitude": 85.31437169846114,
+      "speed_kmh": 31.06833297792566,
+      "heading_deg": 199.50199384709265,
+      "timestamp": "2025-11-01T12:01:10.309647+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "suv",
+      "color": "red",
+      "latitude": 27.745823295380813,
+      "longitude": 85.35393036323941,
+      "speed_kmh": 10.060669274271598,
+      "heading_deg": 173.77392605595793,
+      "timestamp": "2025-11-01T12:01:15.315136+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.712204962963245,
+      "longitude": 85.32260102465065,
+      "speed_kmh": 39.245252641694094,
+      "heading_deg": 292.31923039067465,
+      "timestamp": "2025-11-01T12:01:20.330173+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.73947591860461,
+      "longitude": 85.35193683669547,
+      "speed_kmh": 39.59101043885411,
+      "heading_deg": 238.08105316489798,
+      "timestamp": "2025-11-01T12:01:25.336492+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.703115100325977,
+      "longitude": 85.35124166645026,
+      "speed_kmh": 19.861540355157324,
+      "heading_deg": 193.45899869440342,
+      "timestamp": "2025-11-01T12:01:30.344275+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "sedan",
+      "color": "white",
+      "latitude": 27.727551142272358,
+      "longitude": 85.31567478718276,
+      "speed_kmh": 56.248265789214045,
+      "heading_deg": 282.3201612259475,
+      "timestamp": "2025-11-01T12:01:35.349759+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.714449348336956,
+      "longitude": 85.34720386036017,
+      "speed_kmh": 72.20121067393032,
+      "heading_deg": 253.8295791072915,
+      "timestamp": "2025-11-01T12:01:40.357623+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "van",
+      "color": "white",
+      "latitude": 27.701977292294778,
+      "longitude": 85.30013339854558,
+      "speed_kmh": 73.29745874770843,
+      "heading_deg": 321.52627154029216,
+      "timestamp": "2025-11-01T12:01:45.366808+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "van",
+      "color": "silver",
+      "latitude": 27.72342799191058,
+      "longitude": 85.32352725940353,
+      "speed_kmh": 32.839913474938115,
+      "heading_deg": 141.1522914914449,
+      "timestamp": "2025-11-01T12:01:50.371508+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.74124069996697,
+      "longitude": 85.29685971858038,
+      "speed_kmh": 24.213869320872952,
+      "heading_deg": 241.08602289800245,
+      "timestamp": "2025-11-01T12:01:55.379365+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.692000387387957,
+      "longitude": 85.34653579300614,
+      "speed_kmh": 23.18384786790865,
+      "heading_deg": 85.41082053232863,
+      "timestamp": "2025-11-01T12:02:00.393211+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "sedan",
+      "color": "white",
+      "latitude": 27.71545330008578,
+      "longitude": 85.30469472350933,
+      "speed_kmh": 12.490208968093887,
+      "heading_deg": 249.27084947932073,
+      "timestamp": "2025-11-01T12:02:05.400796+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.737147212720163,
+      "longitude": 85.34934137467538,
+      "speed_kmh": 50.98591250488037,
+      "heading_deg": 214.22948331328786,
+      "timestamp": "2025-11-01T12:02:10.408887+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.744949976355567,
+      "longitude": 85.32100322354582,
+      "speed_kmh": 32.06243701145354,
+      "heading_deg": 302.3991692282075,
+      "timestamp": "2025-11-01T12:02:15.418062+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.716354003907743,
+      "longitude": 85.32560125536955,
+      "speed_kmh": 30.86625816761744,
+      "heading_deg": 277.11183356906787,
+      "timestamp": "2025-11-01T12:02:20.425974+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "van",
+      "color": "silver",
+      "latitude": 27.746583607698124,
+      "longitude": 85.3383939965638,
+      "speed_kmh": 67.45419775515707,
+      "heading_deg": 72.26946453956796,
+      "timestamp": "2025-11-01T12:02:25.433788+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.73476822043519,
+      "longitude": 85.3495034846024,
+      "speed_kmh": 61.40518481331641,
+      "heading_deg": 339.42165964624655,
+      "timestamp": "2025-11-01T12:02:30.444143+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.73032818911814,
+      "longitude": 85.30182020365358,
+      "speed_kmh": 79.29879287676485,
+      "heading_deg": 210.16746382739305,
+      "timestamp": "2025-11-01T12:19:54.008805+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "van",
+      "color": "black",
+      "latitude": 27.710908215836636,
+      "longitude": 85.30585299754294,
+      "speed_kmh": 31.302798008000085,
+      "heading_deg": 237.76697857696257,
+      "timestamp": "2025-11-01T12:19:59.015323+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.71702659521988,
+      "longitude": 85.32921601323687,
+      "speed_kmh": 63.750643746458664,
+      "heading_deg": 193.6110750744809,
+      "timestamp": "2025-11-01T12:20:04.026482+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "suv",
+      "color": "white",
+      "latitude": 27.69236128032178,
+      "longitude": 85.34226627505777,
+      "speed_kmh": 58.9803956589265,
+      "heading_deg": 250.75828213060953,
+      "timestamp": "2025-11-01T12:20:09.031806+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.693522795462524,
+      "longitude": 85.34605296412403,
+      "speed_kmh": 45.62496356151263,
+      "heading_deg": 72.81365360377163,
+      "timestamp": "2025-11-01T12:20:14.038925+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "van",
+      "color": "black",
+      "latitude": 27.688072238492747,
+      "longitude": 85.34087117703704,
+      "speed_kmh": 38.845999949946126,
+      "heading_deg": 246.85679677530322,
+      "timestamp": "2025-11-01T12:20:19.049534+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.723061799408026,
+      "longitude": 85.34505678037728,
+      "speed_kmh": 47.93730478063364,
+      "heading_deg": 321.3516561302121,
+      "timestamp": "2025-11-01T12:20:24.054030+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "van",
+      "color": "black",
+      "latitude": 27.711381123999363,
+      "longitude": 85.3111324394638,
+      "speed_kmh": 32.5027618960295,
+      "heading_deg": 317.3900614898079,
+      "timestamp": "2025-11-01T12:20:29.059504+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.697708556290625,
+      "longitude": 85.3386601887531,
+      "speed_kmh": 25.255790662416484,
+      "heading_deg": 82.38936594653961,
+      "timestamp": "2025-11-01T12:20:34.072567+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.697882004984468,
+      "longitude": 85.31404405287343,
+      "speed_kmh": 48.93097717670486,
+      "heading_deg": 28.39677579831061,
+      "timestamp": "2025-11-01T12:20:39.081845+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.713331189906775,
+      "longitude": 85.33196126367427,
+      "speed_kmh": 79.06131284612638,
+      "heading_deg": 138.41877684028938,
+      "timestamp": "2025-11-01T12:20:44.091412+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "sedan",
+      "color": "white",
+      "latitude": 27.71417107528819,
+      "longitude": 85.29783627047308,
+      "speed_kmh": 37.18867491562507,
+      "heading_deg": 332.0171836924396,
+      "timestamp": "2025-11-01T12:20:49.098560+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "suv",
+      "color": "red",
+      "latitude": 27.697506694453605,
+      "longitude": 85.32951115151545,
+      "speed_kmh": 45.96546873656089,
+      "heading_deg": 258.3490662844686,
+      "timestamp": "2025-11-01T12:20:54.117484+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.72291951094505,
+      "longitude": 85.31774040447463,
+      "speed_kmh": 75.47933616262429,
+      "heading_deg": 165.01245499461774,
+      "timestamp": "2025-11-01T12:20:59.127148+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "suv",
+      "color": "red",
+      "latitude": 27.69145444213854,
+      "longitude": 85.33027846712895,
+      "speed_kmh": 10.612509993809265,
+      "heading_deg": 135.78927138811343,
+      "timestamp": "2025-11-01T12:21:04.134647+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.704312606487836,
+      "longitude": 85.3338448158882,
+      "speed_kmh": 40.82612182001719,
+      "heading_deg": 119.2916196737715,
+      "timestamp": "2025-11-01T12:21:09.139689+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.727278747935035,
+      "longitude": 85.3322246981615,
+      "speed_kmh": 44.4639159130177,
+      "heading_deg": 342.3135619731844,
+      "timestamp": "2025-11-01T12:21:14.147721+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "sedan",
+      "color": "white",
+      "latitude": 27.702351072821664,
+      "longitude": 85.33808863279438,
+      "speed_kmh": 38.11287977231537,
+      "heading_deg": 281.33173130408625,
+      "timestamp": "2025-11-01T12:21:19.157262+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.6897653610161,
+      "longitude": 85.32687605399926,
+      "speed_kmh": 12.354873988449222,
+      "heading_deg": 326.54352561275056,
+      "timestamp": "2025-11-01T12:21:24.167178+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.707175600370977,
+      "longitude": 85.34896205249058,
+      "speed_kmh": 40.92532720152306,
+      "heading_deg": 13.655901775623942,
+      "timestamp": "2025-11-01T12:21:29.177641+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "suv",
+      "color": "black",
+      "latitude": 27.746490043228995,
+      "longitude": 85.34092270887886,
+      "speed_kmh": 58.661223631319494,
+      "heading_deg": 271.6155030541167,
+      "timestamp": "2025-11-01T12:21:34.187363+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "sedan",
+      "color": "red",
+      "latitude": 27.730466580413058,
+      "longitude": 85.31381754529248,
+      "speed_kmh": 35.71853166752291,
+      "heading_deg": 201.3505588846197,
+      "timestamp": "2025-11-01T12:21:39.196626+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.709263343934143,
+      "longitude": 85.35371635429519,
+      "speed_kmh": 21.041986754933085,
+      "heading_deg": 120.27850394499865,
+      "timestamp": "2025-11-01T12:21:44.211423+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "van",
+      "color": "red",
+      "latitude": 27.713044722892022,
+      "longitude": 85.32681556682955,
+      "speed_kmh": 60.68436337578364,
+      "heading_deg": 279.2774530728035,
+      "timestamp": "2025-11-01T12:21:49.219734+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.702680019976846,
+      "longitude": 85.33307135624756,
+      "speed_kmh": 47.98648111183957,
+      "heading_deg": 322.7003843073899,
+      "timestamp": "2025-11-01T12:21:54.232630+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.70373799415819,
+      "longitude": 85.29747416274324,
+      "speed_kmh": 49.55059851932372,
+      "heading_deg": 37.497522070526976,
+      "timestamp": "2025-11-01T12:21:59.252009+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.715515518027953,
+      "longitude": 85.29934525962142,
+      "speed_kmh": 44.049923789663445,
+      "heading_deg": 172.21213721909032,
+      "timestamp": "2025-11-01T12:22:04.263523+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.713591891756902,
+      "longitude": 85.32298703293957,
+      "speed_kmh": 23.822274081941103,
+      "heading_deg": 8.989496533261484,
+      "timestamp": "2025-11-01T12:22:09.269808+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.700213493763197,
+      "longitude": 85.33666585568837,
+      "speed_kmh": 36.46127673518598,
+      "heading_deg": 199.75939163342173,
+      "timestamp": "2025-11-01T12:22:14.277052+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "suv",
+      "color": "white",
+      "latitude": 27.739619724250655,
+      "longitude": 85.35099669817549,
+      "speed_kmh": 61.37794366346057,
+      "heading_deg": 134.31702638253077,
+      "timestamp": "2025-11-01T12:22:19.284913+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "suv",
+      "color": "white",
+      "latitude": 27.692015178314385,
+      "longitude": 85.34710527866947,
+      "speed_kmh": 25.00015152250512,
+      "heading_deg": 30.204840873118325,
+      "timestamp": "2025-11-01T12:22:24.290914+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "suv",
+      "color": "red",
+      "latitude": 27.713846291167147,
+      "longitude": 85.29494978868607,
+      "speed_kmh": 20.564222952785975,
+      "heading_deg": 337.29575022405055,
+      "timestamp": "2025-11-01T12:22:29.295064+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "van",
+      "color": "silver",
+      "latitude": 27.735251104169667,
+      "longitude": 85.3275328344629,
+      "speed_kmh": 28.71899538979149,
+      "heading_deg": 16.235502631587636,
+      "timestamp": "2025-11-01T12:22:34.303532+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.704355118467873,
+      "longitude": 85.31119676187991,
+      "speed_kmh": 53.62683703240113,
+      "heading_deg": 1.4733238755203404,
+      "timestamp": "2025-11-01T12:22:39.314062+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "truck",
+      "color": "white",
+      "latitude": 27.72635432129757,
+      "longitude": 85.30355035805874,
+      "speed_kmh": 17.617444854896007,
+      "heading_deg": 48.731095846533975,
+      "timestamp": "2025-11-01T12:22:44.321579+00:00"
+    },
+    {
+      "plate_number": "KTM002",
+      "vehicle_type": "van",
+      "color": "silver",
+      "latitude": 27.702420576876293,
+      "longitude": 85.34989316493564,
+      "speed_kmh": 77.26381269070701,
+      "heading_deg": 76.03346968266027,
+      "timestamp": "2025-11-01T12:22:49.324848+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.72697889320632,
+      "longitude": 85.3242031393514,
+      "speed_kmh": 67.46601334570309,
+      "heading_deg": 256.1976020543782,
+      "timestamp": "2025-11-01T12:22:54.334880+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.73092462282237,
+      "longitude": 85.30792820032919,
+      "speed_kmh": 15.948980727137508,
+      "heading_deg": 245.67384619292105,
+      "timestamp": "2025-11-01T12:22:59.342825+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.739021597315748,
+      "longitude": 85.34705708586336,
+      "speed_kmh": 70.27793540564387,
+      "heading_deg": 167.47421410387005,
+      "timestamp": "2025-11-01T12:23:04.351034+00:00"
+    },
+    {
+      "plate_number": "NORM42",
+      "vehicle_type": "van",
+      "color": "silver",
+      "latitude": 27.70110064885268,
+      "longitude": 85.3147024926661,
+      "speed_kmh": 26.470952793879242,
+      "heading_deg": 208.87347076220607,
+      "timestamp": "2025-11-01T12:23:09.360472+00:00"
+    },
+    {
+      "plate_number": "KTM001",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.73573225469979,
+      "longitude": 85.30206487144714,
+      "speed_kmh": 74.41506299876664,
+      "heading_deg": 241.03009679015886,
+      "timestamp": "2025-11-01T12:23:14.366694+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "suv",
+      "color": "white",
+      "latitude": 27.720520523850972,
+      "longitude": 85.32531604335763,
+      "speed_kmh": 30.48911427499156,
+      "heading_deg": 55.78367812896056,
+      "timestamp": "2025-11-01T12:23:19.378713+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "suv",
+      "color": "red",
+      "latitude": 27.717801240657593,
+      "longitude": 85.2968508927826,
+      "speed_kmh": 42.041176683095586,
+      "heading_deg": 162.32398573731635,
+      "timestamp": "2025-11-01T12:23:24.386617+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "sedan",
+      "color": "black",
+      "latitude": 27.719204910042386,
+      "longitude": 85.30448432071088,
+      "speed_kmh": 13.246616285761585,
+      "heading_deg": 126.44625935188556,
+      "timestamp": "2025-11-01T12:23:29.397649+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.737099603812474,
+      "longitude": 85.34740903493251,
+      "speed_kmh": 14.924906955703133,
+      "heading_deg": 273.8980224972697,
+      "timestamp": "2025-11-01T12:23:34.409546+00:00"
+    },
+    {
+      "plate_number": "SUS555",
+      "vehicle_type": "truck",
+      "color": "red",
+      "latitude": 27.687657243075996,
+      "longitude": 85.33351495293037,
+      "speed_kmh": 76.1828738101486,
+      "heading_deg": 289.8027800237707,
+      "timestamp": "2025-11-01T12:23:39.422426+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "van",
+      "color": "red",
+      "latitude": 27.692487635234553,
+      "longitude": 85.29674145810841,
+      "speed_kmh": 33.39558418924509,
+      "heading_deg": 277.20565885040645,
+      "timestamp": "2025-11-01T12:23:44.433325+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "van",
+      "color": "blue",
+      "latitude": 27.7199213329372,
+      "longitude": 85.32007068792883,
+      "speed_kmh": 69.58473374213446,
+      "heading_deg": 103.57235506380714,
+      "timestamp": "2025-11-01T12:23:49.441644+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "van",
+      "color": "silver",
+      "latitude": 27.69195138291401,
+      "longitude": 85.33572468136839,
+      "speed_kmh": 59.342423681412825,
+      "heading_deg": 6.8615293697731605,
+      "timestamp": "2025-11-01T12:23:54.449634+00:00"
+    },
+    {
+      "plate_number": "STL777",
+      "vehicle_type": "suv",
+      "color": "blue",
+      "latitude": 27.708038365682356,
+      "longitude": 85.32436033814146,
+      "speed_kmh": 46.027980871384216,
+      "heading_deg": 173.54498621969003,
+      "timestamp": "2025-11-01T12:23:59.457214+00:00"
+    },
+    {
+      "plate_number": "AB123CD",
+      "vehicle_type": "truck",
+      "color": "blue",
+      "latitude": 27.703043045585506,
+      "longitude": 85.30766951066362,
+      "speed_kmh": 31.539146364266298,
+      "heading_deg": 46.55634683117802,
+      "timestamp": "2025-11-01T12:24:04.469005+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "sedan",
+      "color": "blue",
+      "latitude": 27.726382906374997,
+      "longitude": 85.30145154560748,
+      "speed_kmh": 14.09346949391768,
+      "heading_deg": 99.99637511266535,
+      "timestamp": "2025-11-01T12:24:09.476599+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "suv",
+      "color": "red",
+      "latitude": 27.689045202035583,
+      "longitude": 85.31355513022005,
+      "speed_kmh": 22.192305702994354,
+      "heading_deg": 119.90009753240838,
+      "timestamp": "2025-11-01T12:24:14.485710+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "suv",
+      "color": "red",
+      "latitude": 27.719695743506843,
+      "longitude": 85.3267215361572,
+      "speed_kmh": 12.208557240706728,
+      "heading_deg": 344.8595317996287,
+      "timestamp": "2025-11-01T12:24:19.495584+00:00"
+    },
+    {
+      "plate_number": "BHP1234",
+      "vehicle_type": "truck",
+      "color": "black",
+      "latitude": 27.725012278189464,
+      "longitude": 85.33555864673747,
+      "speed_kmh": 42.792504284594244,
+      "heading_deg": 68.83668252849608,
+      "timestamp": "2025-11-01T12:24:24.506748+00:00"
+    },
+    {
+      "plate_number": "KTM003",
+      "vehicle_type": "truck",
+      "color": "silver",
+      "latitude": 27.73249381197232,
+      "longitude": 85.30271764365494,
+      "speed_kmh": 38.118800786986014,
+      "heading_deg": 304.87957132946815,
+      "timestamp": "2025-11-01T12:24:29.515615+00:00"
+    },
+    {
+      "plate_number": "XY987ZT",
+      "vehicle_type": "suv",
+      "color": "black",
+      "latitude": 27.70082006148202,
+      "longitude": 85.34527301906141,
+      "speed_kmh": 34.65979278949569,
+      "heading_deg": 89.9214886185017,
+      "timestamp": "2025-11-01T12:24:34.524405+00:00"
+    },
+    {
+      "plate_number": "BHP5678",
+      "vehicle_type": "suv",
+      "color": "silver",
+      "latitude": 27.733859135634017,
+      "longitude": 85.30219487872178,
+      "speed_kmh": 69.98319714225244,
+      "heading_deg": 359.0437237215587,
+      "timestamp": "2025-11-01T12:24:39.533409+00:00"
+    }
+  ],
+  "alerts": [
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:50:49.987987+00:00",
+      "predicted_latitude": 27.717773569705788,
+      "predicted_longitude": 85.33146722618301,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T10:50:54.521949+00:00",
+      "predicted_latitude": 27.714913015724722,
+      "predicted_longitude": 85.29801022644565,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:51:08.097326+00:00",
+      "predicted_latitude": 27.718206690968948,
+      "predicted_longitude": 85.31039173390843,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:51:20.150683+00:00",
+      "predicted_latitude": 27.705531768424283,
+      "predicted_longitude": 85.29462472325909,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:51:38.232338+00:00",
+      "predicted_latitude": 27.69360108751302,
+      "predicted_longitude": 85.35882934840838,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:51:42.758939+00:00",
+      "predicted_latitude": 27.71862328142024,
+      "predicted_longitude": 85.3131853076786,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:52:05.373990+00:00",
+      "predicted_latitude": 27.71820340614716,
+      "predicted_longitude": 85.33002997704835,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T10:52:06.882561+00:00",
+      "predicted_latitude": 27.727662635980764,
+      "predicted_longitude": 85.30549017684838,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T10:52:08.394751+00:00",
+      "predicted_latitude": 27.687356153788873,
+      "predicted_longitude": 85.2999596775985,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T10:52:37.045894+00:00",
+      "predicted_latitude": 27.70679177903014,
+      "predicted_longitude": 85.3065553384391,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:52:41.565373+00:00",
+      "predicted_latitude": 27.69568534487328,
+      "predicted_longitude": 85.3031984073886,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:52:49.108584+00:00",
+      "predicted_latitude": 27.691813230653718,
+      "predicted_longitude": 85.33858696949869,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T10:52:50.615123+00:00",
+      "predicted_latitude": 27.720874080098714,
+      "predicted_longitude": 85.2910637942017,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T10:52:56.644773+00:00",
+      "predicted_latitude": 27.73820453875989,
+      "predicted_longitude": 85.32595293669756,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T10:53:01.169169+00:00",
+      "predicted_latitude": 27.70615946800206,
+      "predicted_longitude": 85.35520977864809,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:53:04.188584+00:00",
+      "predicted_latitude": 27.73019605540351,
+      "predicted_longitude": 85.29357766217086,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:53:11.718967+00:00",
+      "predicted_latitude": 27.72130762442749,
+      "predicted_longitude": 85.3344960351539,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:53:13.229289+00:00",
+      "predicted_latitude": 27.7366216808668,
+      "predicted_longitude": 85.3371712133585,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:53:14.733251+00:00",
+      "predicted_latitude": 27.7044865002491,
+      "predicted_longitude": 85.33495571411781,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T10:53:23.775456+00:00",
+      "predicted_latitude": 27.708459076699373,
+      "predicted_longitude": 85.31447636893988,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T10:53:31.320529+00:00",
+      "predicted_latitude": 27.702246412004047,
+      "predicted_longitude": 85.31693739677323,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T10:53:34.341377+00:00",
+      "predicted_latitude": 27.743379700248294,
+      "predicted_longitude": 85.30981071920812,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:53:40.381557+00:00",
+      "predicted_latitude": 27.70929517296697,
+      "predicted_longitude": 85.3252631639844,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:53:44.905192+00:00",
+      "predicted_latitude": 27.739108480869664,
+      "predicted_longitude": 85.33889760256902,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": true,
+      "dispatched": true
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:53:46.417559+00:00",
+      "predicted_latitude": 27.6922555917973,
+      "predicted_longitude": 85.34765802803045,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": true,
+      "dispatched": true
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:53:50.952388+00:00",
+      "predicted_latitude": 27.71224014433351,
+      "predicted_longitude": 85.35369632299363,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": true,
+      "dispatched": true
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T10:54:07.549699+00:00",
+      "predicted_latitude": 27.69127068118998,
+      "predicted_longitude": 85.34126779533935,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": true,
+      "dispatched": true
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T10:54:54.290280+00:00",
+      "predicted_latitude": 27.690348533469997,
+      "predicted_longitude": 85.33866118000093,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:54:55.802854+00:00",
+      "predicted_latitude": 27.6890999293898,
+      "predicted_longitude": 85.29865841224577,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T10:55:10.879079+00:00",
+      "predicted_latitude": 27.739223288843686,
+      "predicted_longitude": 85.32976792409107,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T10:56:08.199019+00:00",
+      "predicted_latitude": 27.734266682777236,
+      "predicted_longitude": 85.32381552746386,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T10:56:11.213258+00:00",
+      "predicted_latitude": 27.705180176663468,
+      "predicted_longitude": 85.30130132687604,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:56:12.726654+00:00",
+      "predicted_latitude": 27.73313908696053,
+      "predicted_longitude": 85.30199380529308,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:56:20.275683+00:00",
+      "predicted_latitude": 27.707307810925368,
+      "predicted_longitude": 85.34751933071881,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:56:26.313792+00:00",
+      "predicted_latitude": 27.747174035098816,
+      "predicted_longitude": 85.35095187169921,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:56:53.457676+00:00",
+      "predicted_latitude": 27.73808226960635,
+      "predicted_longitude": 85.30346795318512,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T10:57:02.516114+00:00",
+      "predicted_latitude": 27.742694586452,
+      "predicted_longitude": 85.32053986285804,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:57:04.030588+00:00",
+      "predicted_latitude": 27.709663516028357,
+      "predicted_longitude": 85.3025821166468,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:57:13.076738+00:00",
+      "predicted_latitude": 27.71005052092265,
+      "predicted_longitude": 85.2980550029409,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T10:57:16.091087+00:00",
+      "predicted_latitude": 27.704401511945424,
+      "predicted_longitude": 85.31977711625217,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T10:57:17.604408+00:00",
+      "predicted_latitude": 27.695863043257948,
+      "predicted_longitude": 85.34519866298666,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": true,
+      "dispatched": true
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T10:57:20.623054+00:00",
+      "predicted_latitude": 27.713553354919103,
+      "predicted_longitude": 85.33002667551389,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": true,
+      "dispatched": true
+    },
+    {
+      "plate_number": "BA 12 P 1234",
+      "status": "warning",
+      "timestamp": "2025-11-01T11:30:32.802805+00:00",
+      "predicted_latitude": null,
+      "predicted_longitude": null,
+      "message": "Test alert",
+      "acknowledged": true,
+      "dispatched": true
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T11:57:58.635640+00:00",
+      "predicted_latitude": 27.71355522969903,
+      "predicted_longitude": 85.32670763810899,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T11:57:59.648319+00:00",
+      "predicted_latitude": 27.738582658780675,
+      "predicted_longitude": 85.32321453904255,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T11:58:08.730430+00:00",
+      "predicted_latitude": 27.728653883399645,
+      "predicted_longitude": 85.32640157315271,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T11:58:10.745637+00:00",
+      "predicted_latitude": 27.692974437747893,
+      "predicted_longitude": 85.34219377554724,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T11:58:12.756146+00:00",
+      "predicted_latitude": 27.726893618638748,
+      "predicted_longitude": 85.33511330607367,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T11:58:17.792206+00:00",
+      "predicted_latitude": 27.72469481823191,
+      "predicted_longitude": 85.34064929815926,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T11:58:19.814999+00:00",
+      "predicted_latitude": 27.717527056270644,
+      "predicted_longitude": 85.31353177527242,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T11:58:23.850012+00:00",
+      "predicted_latitude": 27.70255771340779,
+      "predicted_longitude": 85.35690126413917,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T11:58:26.881385+00:00",
+      "predicted_latitude": 27.729587792905146,
+      "predicted_longitude": 85.32591429364399,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T11:58:30.925875+00:00",
+      "predicted_latitude": 27.697584805268452,
+      "predicted_longitude": 85.31471484638676,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T11:58:31.937047+00:00",
+      "predicted_latitude": 27.737910890064633,
+      "predicted_longitude": 85.31481393247702,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T11:58:33.953625+00:00",
+      "predicted_latitude": 27.71468289550063,
+      "predicted_longitude": 85.31777967960248,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T11:58:36.982483+00:00",
+      "predicted_latitude": 27.710924907626595,
+      "predicted_longitude": 85.29675650685132,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T11:58:43.021574+00:00",
+      "predicted_latitude": 27.731452322746144,
+      "predicted_longitude": 85.30155488165984,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T11:58:51.070286+00:00",
+      "predicted_latitude": 27.70032100919182,
+      "predicted_longitude": 85.29378160270011,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T11:58:52.084068+00:00",
+      "predicted_latitude": 27.7434483011016,
+      "predicted_longitude": 85.33629489061359,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T11:59:00.151524+00:00",
+      "predicted_latitude": 27.689642977212518,
+      "predicted_longitude": 85.32097298040125,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T11:59:01.163657+00:00",
+      "predicted_latitude": 27.71264965627738,
+      "predicted_longitude": 85.34005112658966,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T11:59:02.174579+00:00",
+      "predicted_latitude": 27.68480553072655,
+      "predicted_longitude": 85.29963791283076,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T11:59:08.226919+00:00",
+      "predicted_latitude": 27.727319270092718,
+      "predicted_longitude": 85.30337407389521,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T11:59:14.278282+00:00",
+      "predicted_latitude": 27.721904247110242,
+      "predicted_longitude": 85.32777169409655,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T11:59:22.342188+00:00",
+      "predicted_latitude": 27.74272039651743,
+      "predicted_longitude": 85.35401870680005,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T11:59:30.409154+00:00",
+      "predicted_latitude": 27.715044087384047,
+      "predicted_longitude": 85.32682823185485,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T11:59:33.438592+00:00",
+      "predicted_latitude": 27.7048863354626,
+      "predicted_longitude": 85.30144107337698,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T11:59:39.486515+00:00",
+      "predicted_latitude": 27.711118697930623,
+      "predicted_longitude": 85.34342033172265,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T12:00:00.201415+00:00",
+      "predicted_latitude": 27.715834470853896,
+      "predicted_longitude": 85.30357114875152,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T12:00:15.229287+00:00",
+      "predicted_latitude": 27.708017492820748,
+      "predicted_longitude": 85.34732586101774,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T12:00:40.262897+00:00",
+      "predicted_latitude": 27.707530228880245,
+      "predicted_longitude": 85.34055637718394,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T12:00:50.280556+00:00",
+      "predicted_latitude": 27.7272167982849,
+      "predicted_longitude": 85.32169469309939,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T12:01:15.323117+00:00",
+      "predicted_latitude": 27.745073194988677,
+      "predicted_longitude": 85.35402282694861,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T12:01:20.332839+00:00",
+      "predicted_latitude": 27.713322766998196,
+      "predicted_longitude": 85.31952534291561,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T12:01:55.385761+00:00",
+      "predicted_latitude": 27.740362651034264,
+      "predicted_longitude": 85.2950636049246,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T12:02:30.449875+00:00",
+      "predicted_latitude": 27.739079755148836,
+      "predicted_longitude": 85.34767463066501,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T12:19:59.017998+00:00",
+      "predicted_latitude": 27.70965603095831,
+      "predicted_longitude": 85.3036098198539,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T12:20:14.042537+00:00",
+      "predicted_latitude": 27.694533892654693,
+      "predicted_longitude": 85.34974498398095,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T12:20:29.065599+00:00",
+      "predicted_latitude": 27.71317522868015,
+      "predicted_longitude": 85.30926828506139,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T12:20:34.075891+00:00",
+      "predicted_latitude": 27.697959422986052,
+      "predicted_longitude": 85.34078067029843,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T12:20:39.086882+00:00",
+      "predicted_latitude": 27.701110261247774,
+      "predicted_longitude": 85.3160152021602,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T12:20:49.107532+00:00",
+      "predicted_latitude": 27.71663414417823,
+      "predicted_longitude": 85.29635799061614,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T12:21:39.206084+00:00",
+      "predicted_latitude": 27.727971539384168,
+      "predicted_longitude": 85.3127156788094,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T12:21:54.242739+00:00",
+      "predicted_latitude": 27.705542935455526,
+      "predicted_longitude": 85.33060806726981,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T12:23:34.415751+00:00",
+      "predicted_latitude": 27.73717569948555,
+      "predicted_longitude": 85.34614726886386,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "SUS555",
+      "status": "suspicious",
+      "timestamp": "2025-11-01T12:23:39.425306+00:00",
+      "predicted_latitude": 27.68959295796983,
+      "predicted_longitude": 85.32744394839317,
+      "message": "Match on SUSPICIOUS vehicle SUS555",
+      "acknowledged": false,
+      "dispatched": false
+    },
+    {
+      "plate_number": "STL777",
+      "status": "stolen",
+      "timestamp": "2025-11-01T12:23:59.460802+00:00",
+      "predicted_latitude": 27.704608148501134,
+      "predicted_longitude": 85.32479870191763,
+      "message": "Match on STOLEN vehicle STL777",
+      "acknowledged": false,
+      "dispatched": false
+    }
+  ],
+  "summary": {
+    "vehicles": 3,
+    "sightings": 459,
+    "alerts": 87
+  }
+}
